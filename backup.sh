@@ -15,3 +15,6 @@ curl --retry 5 --max-time 180 -f https://www.doge.gov/api/receipts/overview \
 
 jq .contracts "${target}/doge_savings.json" > "${target}/doge_contracts_termination.json"
 jq .leases "${target}/doge_savings.json" > "${target}/doge_leases_termination.json"
+
+jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' "${target}/doge_contracts_termination.json" > "${target}/doge_contracts_termination.csv"
+jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' "${target}/doge_leases_termination.json" > "${target}/doge_leases_termination.csv"
