@@ -1,0 +1,875 @@
+[
+  {
+    "sq_ft": "3,076",
+    "date": "1/22/25",
+    "location": "Miami, FL",
+    "description": "Lease end date 2/28/25.",
+    "ceiling_value": "112278",
+    "value": "7383",
+    "agency": "Department of State"
+  },
+  {
+    "sq_ft": "3,068",
+    "date": "1/22/25",
+    "location": "Cincinnati, OH",
+    "description": "Lease end date 6/30/25. ",
+    "ceiling_value": "75739",
+    "value": "30295",
+    "agency": "Department of Justice"
+  },
+  {
+    "sq_ft": "51,138",
+    "date": "1/22/25",
+    "location": "Kansas City",
+    "description": "Lease Termination sent 1/22/25, effective 2/1/26. Tenant will relocate into another local building.",
+    "ceiling_value": "900000",
+    "value": "1275000",
+    "agency": "Department of Justice"
+  },
+  {
+    "sq_ft": "4,599",
+    "date": "1/22/25",
+    "location": "O’Fallon, IL",
+    "description": "Lease Termination sent 1/22/25, effective 4/21/25.",
+    "ceiling_value": "99000",
+    "value": "239250",
+    "agency": "General Services Administration"
+  },
+  {
+    "sq_ft": "2,983",
+    "date": "1/23/25",
+    "location": "Fairborn, OH",
+    "description": "Lease Termination sent 1/23/25, effective 4/22/25. ",
+    "ceiling_value": "51000",
+    "value": "80292",
+    "agency": "General Services Administration"
+  },
+  {
+    "sq_ft": "119,812",
+    "date": "1/27/25",
+    "location": "Atlanta, GA",
+    "description": "Lease Termination sent 1/27/25, effective 5/31/25.",
+    "ceiling_value": "2473060",
+    "value": "2060883",
+    "agency": "Department of Health and Human Services"
+  },
+  {
+    "sq_ft": "3,719",
+    "date": "1/27/25",
+    "location": "Charlottesville, VA",
+    "description": "Termination for LVA09326 - agency released space currently vacant. Lease termination is 01/27/2025",
+    "ceiling_value": "124121",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "16,632",
+    "date": "1/29/25",
+    "location": "White Plains, NY",
+    "description": "Lease termination notice sent 1/29/25. Lease will terminate at original expiration on 5/31/25.",
+    "ceiling_value": "511908",
+    "value": "162689",
+    "agency": "Social Security Administration"
+  },
+  {
+    "sq_ft": "55,043",
+    "date": "1/29/25",
+    "location": "Arlington, VA",
+    "description": "Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.",
+    "ceiling_value": "2595912",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "49,662",
+    "date": "1/29/25",
+    "location": "Arlington, VA",
+    "description": "Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.",
+    "ceiling_value": "2440578",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "5,421",
+    "date": "1/29/25",
+    "location": "Middleburg Heights, OH",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "96568",
+    "value": "193136",
+    "agency": "General Services Administration"
+  },
+  {
+    "sq_ft": "845,389",
+    "date": "1/30/25",
+    "location": "Washington, DC",
+    "description": "Lease termination notice sent 1/30/25. Termination effective at original expiration on 5/14/25.",
+    "ceiling_value": "26357330",
+    "value": "7148974",
+    "agency": "Department of Labor"
+  },
+  {
+    "sq_ft": "46,821",
+    "date": "1/30/25",
+    "location": "Washington, DC",
+    "description": "Lease termination notice sent 1/30/25. Termination effective on 4/30/25.",
+    "ceiling_value": "2087093",
+    "value": "1898397",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "3,860",
+    "date": "1/30/25",
+    "location": "Springfield, IL",
+    "description": "Lease termination notice sent 1/30/25. Termination effective on 4/29/25.",
+    "ceiling_value": "62102",
+    "value": "164698",
+    "agency": "General Services Administration"
+  },
+  {
+    "sq_ft": "250",
+    "date": "1/31/2025",
+    "location": "New York, NY",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "63000",
+    "value": "4142",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "5,598",
+    "date": "1/31/2025",
+    "location": "Riverdale Park, MD",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "198065",
+    "value": "32559",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "0",
+    "date": "1/31/2025",
+    "location": "New York, NY",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "1786302",
+    "value": "1316480",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "22,195",
+    "date": "1/31/2025",
+    "location": "Washington, DC",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "1052263",
+    "value": "1150282",
+    "agency": "FIELD OFFICES"
+  },
+  {
+    "sq_ft": "0",
+    "date": "1/31/2025",
+    "location": "New York, NY",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "1834070",
+    "value": "2261182",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "7,852",
+    "date": "2/3/2025",
+    "location": "Logan, WV",
+    "description": "agency closing office temporarily",
+    "ceiling_value": "196028",
+    "value": "45650",
+    "agency": "Social Security Administration"
+  },
+  {
+    "sq_ft": "5,255",
+    "date": "2/3/2025",
+    "location": "Washington, DC",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "266445",
+    "value": "196366",
+    "agency": "Department of Education"
+  },
+  {
+    "sq_ft": "6,610",
+    "date": "2/3/2025",
+    "location": "LOS ANGELES, CA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "463440",
+    "value": "0",
+    "agency": "Department of Defense"
+  },
+  {
+    "sq_ft": "1,300",
+    "date": "2/4/2025",
+    "location": "REHOBOTH BEACH, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "120000",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "2,400",
+    "date": "2/4/2025",
+    "location": "REHOBOTH BEACH, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "308975",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "2,740",
+    "date": "2/4/2025",
+    "location": "REHOBOTH BEACH, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "156300",
+    "value": "0",
+    "agency": "Department of Defense"
+  },
+  {
+    "sq_ft": "2,350",
+    "date": "2/4/2025",
+    "location": "WILMINGTON, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "89250",
+    "value": "0",
+    "agency": "Department of Defense"
+  },
+  {
+    "sq_ft": "2,958",
+    "date": "2/4/2025",
+    "location": "CHAMPAIGN, IL",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "57893",
+    "value": "0",
+    "agency": "Department of Treasury"
+  },
+  {
+    "sq_ft": "13,441",
+    "date": "2/4/2025",
+    "location": "WILMINGTON, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "528160",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "1,000",
+    "date": "2/4/2025",
+    "location": "PHILADELPHIA, PA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "39348",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "0",
+    "date": "2/4/2025",
+    "location": "WILMINGTON, DE",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "249975",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "959",
+    "date": "2/4/2025",
+    "location": "LEBANON, NH",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "29098",
+    "value": "0",
+    "agency": "Small Business Administration"
+  },
+  {
+    "sq_ft": "330",
+    "date": "2/4/2025",
+    "location": "YAKIMA, WA",
+    "description": "True Termination- Vacant Space Buyout",
+    "ceiling_value": "2580",
+    "value": "0",
+    "agency": "Department of Justice"
+  },
+  {
+    "sq_ft": "23,394",
+    "date": "2/4/2025",
+    "location": "SEATTLE, WA",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "1046843",
+    "value": "946460",
+    "agency": "Government Accountability Office"
+  },
+  {
+    "sq_ft": "3,579",
+    "date": "2/4/2025",
+    "location": "CARLSBAD, CA",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "116449",
+    "value": "0",
+    "agency": "Social Security Administration"
+  },
+  {
+    "sq_ft": "1,155",
+    "date": "2/5/2025",
+    "location": "JACKSONVILLE, FL",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "27616",
+    "value": "6904",
+    "agency": "Department of Defense"
+  },
+  {
+    "sq_ft": "7,322",
+    "date": "2/5/2025",
+    "location": "MILWAUKEE, WI",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "186700",
+    "value": "0",
+    "agency": "Department of Defense"
+  },
+  {
+    "sq_ft": "1,000",
+    "date": "2/5/2025",
+    "location": "MIDDLEBURG HEIGHTS, OH",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "15299",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "1,200",
+    "date": "1/30/2025",
+    "location": "LOS ANGELES, CA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "35340",
+    "value": "0",
+    "agency": "Department of Homeland Security"
+  },
+  {
+    "sq_ft": "16,439",
+    "date": "1/30/2025",
+    "location": "LOS ANGELES, CA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "599399",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "46,567",
+    "date": "1/30/2025",
+    "location": "PHOENIX, AZ",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "1168475",
+    "value": "0",
+    "agency": "PUBLIC DEFENDER SERVICE"
+  },
+  {
+    "sq_ft": "2,193",
+    "date": "1/30/2025",
+    "location": "PHOENIX, AZ",
+    "description": "True Termination- Vacant Space Buyout",
+    "ceiling_value": "44990",
+    "value": "221199",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "2,551",
+    "date": "1/30/2025",
+    "location": "BREA, CA",
+    "description": "True Termination- Vacant Space Buyout",
+    "ceiling_value": "73826",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "5,560",
+    "date": "2/2/2025",
+    "location": "TOPEKA, KS",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "121818",
+    "value": "964396",
+    "agency": "RISK MANAGEMENT AGENCY (RMA)"
+  },
+  {
+    "sq_ft": "4,998",
+    "date": "2/4/2025",
+    "location": "ABILENE, TX",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "68743",
+    "value": "0",
+    "agency": "DHS TRANSPORTATION SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "0",
+    "date": "2/4/2025",
+    "location": "AUSTIN, TX",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "139440",
+    "value": "23240",
+    "agency": "U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)"
+  },
+  {
+    "sq_ft": "2,257",
+    "date": "2/4/2025",
+    "location": "DAYTON, OH",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "33574",
+    "value": "0",
+    "agency": "UNITED STATES TRUSTEES"
+  },
+  {
+    "sq_ft": "351",
+    "date": "2/4/2025",
+    "location": "DAVENPORT, IA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "6435",
+    "value": "20376",
+    "agency": "EMPLOY. AND TRAIN. ADMIN., BUR. OF APPRENTICESHIP AND T"
+  },
+  {
+    "sq_ft": "2,871",
+    "date": "2/4/2025",
+    "location": "MADISON, WI",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "58142",
+    "value": "290709",
+    "agency": "UNITED STATES FISH AND WILDLIFE SERVICE"
+  },
+  {
+    "sq_ft": "3,201",
+    "date": "2/4/2025",
+    "location": "AKRON, OH",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "48404",
+    "value": "0",
+    "agency": "DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL"
+  },
+  {
+    "sq_ft": "3,853",
+    "date": "2/4/2025",
+    "location": "BIRMINGHAM, AL",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "101211",
+    "value": "227725",
+    "agency": "NATIONAL LABOR RELATIONS BOARD"
+  },
+  {
+    "sq_ft": "23,860",
+    "date": "2/4/2025",
+    "location": "MOBILE, AL",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "722044",
+    "value": "0",
+    "agency": "CORPS OF ENGINEERS, CIVIL"
+  },
+  {
+    "sq_ft": "1,120",
+    "date": "2/5/2025",
+    "location": "LAS CRUCES, NM",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "27109",
+    "value": "6777",
+    "agency": "VETERANS BENEFITS ADMINISTRATION"
+  },
+  {
+    "sq_ft": "5,300",
+    "date": "2/6/2025",
+    "location": "NORTH ANDOVER CENTER, MA",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "115664",
+    "value": "67470",
+    "agency": "DRUG ENFORCEMENT ADMINISTRATION"
+  },
+  {
+    "sq_ft": "440",
+    "date": "2/6/2025",
+    "location": "FAYETTEVILLE, AR",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "11096",
+    "value": "0",
+    "agency": "EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+  },
+  {
+    "sq_ft": "5,624",
+    "date": "2/6/2025",
+    "location": "ALBUQUERQUE, NM",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "67317",
+    "value": "330975",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "17,000",
+    "date": "2/6/2025",
+    "location": "ATLANTA, GA",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "446286",
+    "value": null,
+    "agency": "FOOD AND DRUG ADMINISTRATION"
+  },
+  {
+    "sq_ft": "982",
+    "date": "2/6/2025",
+    "location": "ROANOKE RAPIDS, NC",
+    "description": "True Termination- Lease Backfill",
+    "ceiling_value": "24000",
+    "value": "0",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "3,403",
+    "date": "2/6/2025",
+    "location": "BATESVILLE, AR",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "51045",
+    "value": "0",
+    "agency": "RURAL HOUSING SERVICE"
+  },
+  {
+    "sq_ft": "1,470",
+    "date": "2/6/2025",
+    "location": "BATESVILLE, AR",
+    "description": "True Termination- Lease Backfill",
+    "ceiling_value": "22050",
+    "value": "0",
+    "agency": "NATURAL RESOURCES CONSERVATION SERVICE"
+  },
+  {
+    "sq_ft": "2,891",
+    "date": "2/6/2025",
+    "location": "BATESVILLE, AR",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "43365",
+    "value": "43365",
+    "agency": "FARM SERVICE AGENCY - COUNTY"
+  },
+  {
+    "sq_ft": "1,934",
+    "date": "2/6/2025",
+    "location": "BATESVILLE, AR",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "29010",
+    "value": "0",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "3,999",
+    "date": "2/6/2025",
+    "location": "COLUMBUS, OH",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "81059",
+    "value": "0",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "4,276",
+    "date": "2/6/2025",
+    "location": "OKEMOS, MI",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "108966",
+    "value": "0",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "2,325",
+    "date": "2/6/2025",
+    "location": "BROKEN BOW, OK",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "30612",
+    "value": "58673",
+    "agency": "UNITED STATES FISH AND WILDLIFE SERVICE"
+  },
+  {
+    "sq_ft": "8,905",
+    "date": "2/6/2025",
+    "location": "ADDISON, TX",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "217084",
+    "value": "416078",
+    "agency": "DEFENSE CONTRACT MANAGEMENT AGENCY- LOCAL"
+  },
+  {
+    "sq_ft": "1,717",
+    "date": "2/6/2025",
+    "location": "NACOGDOCHES, TX",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "43207",
+    "value": "86414",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "0",
+    "date": "2/6/2025",
+    "location": "CARNEGIE, OK",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "2798",
+    "value": "6063",
+    "agency": "BUREAU OF INDIAN AFFAIRS"
+  },
+  {
+    "sq_ft": "124,569",
+    "date": "2/7/2025",
+    "location": "FAIRFIELD, OH",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "478213",
+    "value": "39851",
+    "agency": "NATIONAL ARCHIVES CENTERS"
+  },
+  {
+    "sq_ft": "61,371",
+    "date": "2/7/2025",
+    "location": "COLUMBUS, OH",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "1512990",
+    "value": "0",
+    "agency": "BANKRUPTCY CLERK"
+  },
+  {
+    "sq_ft": "6,834",
+    "date": "2/7/2025",
+    "location": "TOLEDO, OH",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "146733",
+    "value": "0",
+    "agency": "PROBATION"
+  },
+  {
+    "sq_ft": "976",
+    "date": "2/7/2025",
+    "location": "GREEN BAY, WI",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "26229",
+    "value": "0",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "3,409",
+    "date": "2/7/2025",
+    "location": "EL PASO, TX",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "75290",
+    "value": null,
+    "agency": "GEOLOGICAL SURVEY"
+  },
+  {
+    "sq_ft": "20,000",
+    "date": "2/7/2025",
+    "location": "MENLO PARK, CA",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "1800000",
+    "value": "0",
+    "agency": "GEOLOGICAL SURVEY"
+  },
+  {
+    "sq_ft": "73,573",
+    "date": "2/7/2025",
+    "location": "HOFFMAN ESTATES, IL",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "1480913",
+    "value": "740457",
+    "agency": "NATIONAL ARCHIVES CENTERS"
+  },
+  {
+    "sq_ft": "555",
+    "date": "2/5/2025",
+    "location": "HOUSTON, TX",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "13547",
+    "value": "67734",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "2,597",
+    "date": "2/7/2025",
+    "location": "MCALLEN, TX",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "79520",
+    "value": "258439",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "748",
+    "date": "2/7/2025",
+    "location": "BROWNSVILLE, TX",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "18287",
+    "value": "91437",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "6,440",
+    "date": "2/10/2025",
+    "location": "SANTA MARIA, CA",
+    "description": "True Termination- Agency Direct Lease",
+    "ceiling_value": "118513",
+    "value": "237027",
+    "agency": "GEOLOGICAL SURVEY"
+  },
+  {
+    "sq_ft": "30,193",
+    "date": "2/10/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "1462643",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "18,163",
+    "date": "2/11/2025",
+    "location": "BUFFALO, NY",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "548896",
+    "value": "0",
+    "agency": "DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL"
+  },
+  {
+    "sq_ft": "37,644",
+    "date": "2/11/2025",
+    "location": "BUFFALO, NY",
+    "description": "True Termination- Consolidation",
+    "ceiling_value": "1020916",
+    "value": "0",
+    "agency": "NATIONAL LABOR RELATIONS BOARD"
+  },
+  {
+    "sq_ft": "17,593",
+    "date": "2/11/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "795617",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "2,061",
+    "date": "2/12/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "71820",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "0",
+    "date": "2/12/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "42000",
+    "value": "0",
+    "agency": "DHS UNITED STATES SECRET SERVICE"
+  },
+  {
+    "sq_ft": "1,895",
+    "date": "2/12/2025",
+    "location": "LAS VEGAS, NV",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "65406",
+    "value": "16352",
+    "agency": "SOCIAL SECURITY ADMINISTRATION"
+  },
+  {
+    "sq_ft": "1,277",
+    "date": "2/12/2025",
+    "location": "CHARLOTTE AMALIE, VI",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "67411",
+    "value": "0",
+    "agency": "ENVIRONMENTAL PROTECTION AGENCY"
+  },
+  {
+    "sq_ft": "1,228",
+    "date": "2/13/2025",
+    "location": "AUBURN, CA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "31025",
+    "value": "62051",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "393",
+    "date": "2/13/2025",
+    "location": "MERRILL, WI",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "6067",
+    "value": "6067",
+    "agency": "DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL"
+  },
+  {
+    "sq_ft": "66,390",
+    "date": "2/13/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "2547874",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "59,681",
+    "date": "2/13/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "2774013",
+    "value": "0",
+    "agency": "DHS OFFICE OF THE UNDERSECRETARY FOR MANAGEMENT"
+  },
+  {
+    "sq_ft": "15,280",
+    "date": "2/13/2025",
+    "location": "LORTON, VA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "342689",
+    "value": "0",
+    "agency": "Multiple"
+  },
+  {
+    "sq_ft": "8,360",
+    "date": "2/14/2025",
+    "location": "ATLANTA, GA",
+    "description": "True Termination- Move to Federal Space",
+    "ceiling_value": "223483",
+    "value": "0",
+    "agency": "FEDERAL TRADE COMMISSION"
+  },
+  {
+    "sq_ft": "259,130",
+    "date": "2/14/2025",
+    "location": "WASHINGTON, DC",
+    "description": "True Termination- Lease Backfill",
+    "ceiling_value": "11466505",
+    "value": null,
+    "agency": "FEDERAL TRADE COMMISSION"
+  },
+  {
+    "sq_ft": "1,023",
+    "date": "2/14/2025",
+    "location": "CHATTANOOGA, TN",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "19938",
+    "value": "0",
+    "agency": "DHS-CBP FIELD OPERATIONS FACILITIES"
+  },
+  {
+    "sq_ft": "7,682",
+    "date": "2/14/2025",
+    "location": "ATLANTA, GA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "128233",
+    "value": "544991",
+    "agency": "ALLOWANCE TO FORMER PRESIDENTS"
+  },
+  {
+    "sq_ft": "3,392",
+    "date": "2/14/2025",
+    "location": "ST. LOUIS, MO",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "85087",
+    "value": "0",
+    "agency": "DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY – DOD W"
+  },
+  {
+    "sq_ft": "1,330",
+    "date": "2/14/2025",
+    "location": "FOLSOM, CA",
+    "description": "True Termination- Agency Closed Office",
+    "ceiling_value": "39208",
+    "value": "78417",
+    "agency": "Multiple"
+  }
+]
