@@ -15,9 +15,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install curl
+      - name: Install curl and jq
         run: |
-          sudo apt-get install -y curl
+          sudo apt-get install -y curl jq
 
       - name: Running backup script
         run: |
@@ -28,7 +28,7 @@ jobs:
         with:
           author_name: Github Action Bot
           author_email: noreply@github.com
-          message: 'Nightly update of raw DOGE changes based on registration'
+          message: 'Nightly update of raw DOGE changes'
           add: 'data/*'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
