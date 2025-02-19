@@ -32,3 +32,9 @@ jq .leases "${target}/doge_savings.json" > "${target}/doge_leases_termination.js
 
 jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' "${target}/doge_contracts_termination.json" > "${target}/doge_contracts_termination.csv"
 jq -r '(map(keys) | add | unique) as $cols | map(. as $row | $cols | map($row[.])) as $rows | $cols, $rows[] | @csv' "${target}/doge_leases_termination.json" > "${target}/doge_leases_termination.csv"
+
+if command -v csvlint > /dev/null 2>&1 ; then
+  echo "csvlint is installed."
+  csvlint "${target}/doge_contracts_termination.csv"
+  csvlint "${target}/doge_leases_termination.csv"
+fi
