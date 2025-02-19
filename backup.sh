@@ -3,6 +3,20 @@
 [[ -v VERBOSE ]] && set -x
 set -eu
 
+if command -v curl > /dev/null 2>&1 ; then
+  echo "curl is installed."
+else
+  echo "curl not found! Please install curl and run again!"
+  exit
+fi
+
+if command -v jq > /dev/null 2>&1 ; then
+  echo "jq is installed."
+else
+  echo "jq not found! Please install jq and run again!"
+  exit
+fi
+
 target="${1}/data/raw"
 
 echo "doge savings - contracts and leases"
