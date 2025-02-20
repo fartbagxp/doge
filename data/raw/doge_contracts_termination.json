@@ -13297,30 +13297,6 @@
   },
   {
     "date": "2/6/2025",
-    "piid": "7200AA20D00019",
-    "agency": "US Agency for International Development",
-    "ceiling_value": 655000000,
-    "value": 654990000,
-    "update_date": "2/12/2025",
-    "fpds_status": "OTHER ADMINISTRATIVE ACTION",
-    "fpds_link": "https://www.fpds.gov/ezsearch/jsp/viewLinkController.jsp?agencyID=7200&PIID=7200AA20D00019&modNumber=P00007&idvAgencyID=&idvPIID=&contractType=IDV",
-    "vendor": "ME&A, INC.",
-    "description": "PPL/LER NEW EVALUATION IDIQS"
-  },
-  {
-    "date": "2/6/2025",
-    "piid": "7200AA20D00023",
-    "agency": "US Agency for International Development",
-    "ceiling_value": 655000000,
-    "value": 654990000,
-    "update_date": "2/12/2025",
-    "fpds_status": "OTHER ADMINISTRATIVE ACTION",
-    "fpds_link": "https://www.fpds.gov/ezsearch/jsp/viewLinkController.jsp?agencyID=7200&PIID=7200AA20D00023&modNumber=P00004&idvAgencyID=&idvPIID=&contractType=IDV",
-    "vendor": "SOCHA, LLC",
-    "description": "NEW PPL/LER EVALUATION IDIQS"
-  },
-  {
-    "date": "2/6/2025",
     "piid": "7200AA20M00002",
     "agency": "US Agency for International Development",
     "ceiling_value": 79792188,
