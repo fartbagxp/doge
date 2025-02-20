@@ -1,40 +1,40 @@
-# name: DOGE update nightly cronjob
+name: DOGE update nightly cronjob
 
-# on:
-#   push:
-#     branches:
-#       - main
-#   schedule:
-#     - cron: '16 22 * * *'
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '16 12 * * *'
 
-# jobs:
-#   deploy:
-#     runs-on: ubuntu-latest
-#     permissions:
-#       contents: write
-#     steps:
-#       - uses: actions/checkout@v4
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
 
-#       - name: Install curl and jq
-#         run: |
-#           sudo apt-get install -y curl jq
+      # - name: Install curl and jq
+      #   run: |
+      #     sudo apt-get install -y curl jq
 
-#       - name: Running backup script
-#         run: |
-#           bash backup.sh "${GITHUB_WORKSPACE}"
+      # - name: Running backup script
+      #   run: |
+      #     bash backup.sh "${GITHUB_WORKSPACE}"
 
-#       - name: Commit DOGE changes
-#         uses: EndBug/add-and-commit@v9.1.4
-#         with:
-#           author_name: Github Action Bot
-#           author_email: noreply@github.com
-#           message: 'Nightly update of raw DOGE changes'
-#           add: 'data/*'
-#         env:
-#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Commit DOGE changes
+      #   uses: EndBug/add-and-commit@v9.1.4
+      #   with:
+      #     author_name: Github Action Bot
+      #     author_email: noreply@github.com
+      #     message: 'Nightly update of raw DOGE changes'
+      #     add: 'data/*'
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-#       - name: Push changes
-#         uses: ad-m/github-push-action@v0.8.0
-#         with:
-#           github_token: ${{ secrets.GITHUB_TOKEN }}
-#           branch: ${{ github.ref }}
+      # - name: Push changes
+      #   uses: ad-m/github-push-action@v0.8.0
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     branch: ${{ github.ref }}
