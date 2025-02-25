@@ -7,25 +7,30 @@ if command -v curl > /dev/null 2>&1 ; then
   echo "curl is installed."
 else
   echo "curl not found! Please install curl and run again!"
-  exit
+  exit 1
 fi
 
 if command -v jq > /dev/null 2>&1 ; then
   echo "jq is installed."
 else
   echo "jq not found! Please install jq and run again!"
-  exit
+  exit 1
 fi
 
 target="${1}/data/raw"
 
 echo "doge savings - contracts and leases"
-curl --retry 5 --max-time 180 -f https://www.doge.gov/api/receipts/overview \
-  --compressed \
+response=$(curl --retry 5 --max-time 180 -s -w "%{http_code}" -o "${target}/doge_savings.json" \
   -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' \
   -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' \
   -H 'Accept-Language: en-US,en;q=0.5' \
-  -H 'Accept-Encoding: gzip, deflate' | jq '.' > "${target}/doge_savings.json"
+  -H 'Accept-Encoding: gzip, deflate' \
+  https://www.doge.gov/api/receipts/overview)
+
+if [[ "$response" != "200" && "$response" != "201" ]]; then
+  echo "Error: Received HTTP status code $response. Pausing execution..."
+  exit 1
+fi
 
 jq .contracts "${target}/doge_savings.json" > "${target}/doge_contracts_termination.json"
 jq .leases "${target}/doge_savings.json" > "${target}/doge_leases_termination.json"
