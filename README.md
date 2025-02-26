@@ -55,7 +55,3 @@ To create a new dependency lock file manually (optional as it should happen auto
 ```bash
 uv lock
 ```
-
-```
-
-```
