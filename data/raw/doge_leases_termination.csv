@@ -1,98 +1,243 @@
-"agency","ceiling_value","date","description","location","sq_ft","value"
-"Department of State","112278","1/22/25","Lease end date 2/28/25.","Miami, FL","3,076","7383"
-"Department of Justice","75739","1/22/25","Lease end date 6/30/25. ","Cincinnati, OH","3,068","30295"
-"Department of Justice","900000","1/22/25","Lease Termination sent 1/22/25, effective 2/1/26. Tenant will relocate into another local building.","Kansas City","51,138","1275000"
-"General Services Administration","99000","1/22/25","Lease Termination sent 1/22/25, effective 4/21/25.","O’Fallon, IL","4,599","239250"
-"General Services Administration","51000","1/23/25","Lease Termination sent 1/23/25, effective 4/22/25. ","Fairborn, OH","2,983","80292"
-"Department of Health and Human Services","2473060","1/27/25","Lease Termination sent 1/27/25, effective 5/31/25.","Atlanta, GA","119,812","2060883"
-"Multiple","124121","1/27/25","Termination for LVA09326 - agency released space currently vacant. Lease termination is 01/27/2025","Charlottesville, VA","3,719","0"
-"Social Security Administration","511908","1/29/25","Lease termination notice sent 1/29/25. Lease will terminate at original expiration on 5/31/25.","White Plains, NY","16,632","162689"
-"Multiple","2595912","1/29/25","Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.","Arlington, VA","55,043","0"
-"Department of Homeland Security","2440578","1/29/25","Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.","Arlington, VA","49,662","0"
-"General Services Administration","96568","1/29/25","True Termination- Agency Closed Office","Middleburg Heights, OH","5,421","193136"
-"Department of Labor","26357330","1/30/25","Lease termination notice sent 1/30/25. Termination effective at original expiration on 5/14/25.","Washington, DC","845,389","7148974"
-"Multiple","2087093","1/30/25","Lease termination notice sent 1/30/25. Termination effective on 4/30/25.","Washington, DC","46,821","1898397"
-"General Services Administration","62102","1/30/25","Lease termination notice sent 1/30/25. Termination effective on 4/29/25.","Springfield, IL","3,860","164698"
-"Department of Homeland Security","63000","1/31/2025","True Termination- Agency Closed Office","New York, NY","250","4142"
-"Multiple","198065","1/31/2025","True Termination- Consolidation","Riverdale Park, MD","5,598","32559"
-"Department of Homeland Security","1786302","1/31/2025","True Termination- Agency Closed Office","New York, NY","0","1316480"
-"FIELD OFFICES","1052263","1/31/2025","True Termination- Move to Federal Space","Washington, DC","22,195","1150282"
-"Department of Homeland Security","1834070","1/31/2025","True Termination- Agency Closed Office","New York, NY","0","2261182"
-"Social Security Administration","196028","2/3/2025","agency closing office temporarily","Logan, WV","7,852","45650"
-"Department of Education","266445","2/3/2025","True Termination- Consolidation","Washington, DC","5,255","196366"
-"Department of Defense","463440","2/3/2025","True Termination- Agency Closed Office","LOS ANGELES, CA","6,610","0"
-"Multiple","120000","2/4/2025","True Termination- Agency Closed Office","REHOBOTH BEACH, DE","1,300","0"
-"Department of Homeland Security","308975","2/4/2025","True Termination- Agency Closed Office","REHOBOTH BEACH, DE","2,400","0"
-"Department of Defense","156300","2/4/2025","True Termination- Agency Closed Office","REHOBOTH BEACH, DE","2,740","0"
-"Department of Defense","89250","2/4/2025","True Termination- Agency Closed Office","WILMINGTON, DE","2,350","0"
-"Department of Treasury","57893","2/4/2025","True Termination- Agency Closed Office","CHAMPAIGN, IL","2,958","0"
-"Department of Homeland Security","528160","2/4/2025","True Termination- Agency Closed Office","WILMINGTON, DE","13,441","0"
-"Department of Homeland Security","39348","2/4/2025","True Termination- Agency Closed Office","PHILADELPHIA, PA","1,000","0"
-"Department of Homeland Security","249975","2/4/2025","True Termination- Agency Closed Office","WILMINGTON, DE","0","0"
-"Small Business Administration","29098","2/4/2025","True Termination- Agency Closed Office","LEBANON, NH","959","0"
-"Department of Justice","2580","2/4/2025","True Termination- Vacant Space Buyout","YAKIMA, WA","330","0"
-"Government Accountability Office","1046843","2/4/2025","True Termination- Move to Federal Space","SEATTLE, WA","23,394","946460"
-"Social Security Administration","116449","2/4/2025","True Termination- Consolidation","CARLSBAD, CA","3,579","0"
-"Department of Defense","27616","2/5/2025","True Termination- Move to Federal Space","JACKSONVILLE, FL","1,155","6904"
-"Department of Defense","186700","2/5/2025","True Termination- Move to Federal Space","MILWAUKEE, WI","7,322","0"
-"Multiple","15299","2/5/2025","True Termination- Agency Closed Office","MIDDLEBURG HEIGHTS, OH","1,000","0"
-"Department of Homeland Security","35340","1/30/2025","True Termination- Agency Closed Office","LOS ANGELES, CA","1,200","0"
-"Multiple","599399","1/30/2025","True Termination- Agency Closed Office","LOS ANGELES, CA","16,439","0"
-"PUBLIC DEFENDER SERVICE","1168475","1/30/2025","True Termination- Consolidation","PHOENIX, AZ","46,567","0"
-"Multiple","44990","1/30/2025","True Termination- Vacant Space Buyout","PHOENIX, AZ","2,193","221199"
-"Multiple","73826","1/30/2025","True Termination- Vacant Space Buyout","BREA, CA","2,551","0"
-"RISK MANAGEMENT AGENCY (RMA)","121818","2/2/2025","True Termination- Agency Closed Office","TOPEKA, KS","5,560","964396"
-"DHS TRANSPORTATION SECURITY ADMINISTRATION","68743","2/4/2025","True Termination- Agency Closed Office","ABILENE, TX","4,998","0"
-"U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)","139440","2/4/2025","True Termination- Agency Closed Office","AUSTIN, TX","0","23240"
-"UNITED STATES TRUSTEES","33574","2/4/2025","True Termination- Agency Closed Office","DAYTON, OH","2,257","0"
-"EMPLOY. AND TRAIN. ADMIN., BUR. OF APPRENTICESHIP AND T","6435","2/4/2025","True Termination- Agency Closed Office","DAVENPORT, IA","351","20376"
-"UNITED STATES FISH AND WILDLIFE SERVICE","58142","2/4/2025","True Termination- Agency Closed Office","MADISON, WI","2,871","290709"
-"DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL","48404","2/4/2025","True Termination- Move to Federal Space","AKRON, OH","3,201","0"
-"NATIONAL LABOR RELATIONS BOARD","101211","2/4/2025","True Termination- Move to Federal Space","BIRMINGHAM, AL","3,853","227725"
-"CORPS OF ENGINEERS, CIVIL","722044","2/4/2025","True Termination- Agency Direct Lease","MOBILE, AL","23,860","0"
-"VETERANS BENEFITS ADMINISTRATION","27109","2/5/2025","True Termination- Move to Federal Space","LAS CRUCES, NM","1,120","6777"
-"DRUG ENFORCEMENT ADMINISTRATION","115664","2/6/2025","True Termination- Consolidation","NORTH ANDOVER CENTER, MA","5,300","67470"
-"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI","11096","2/6/2025","True Termination- Move to Federal Space","FAYETTEVILLE, AR","440","0"
-"Multiple","67317","2/6/2025","True Termination- Consolidation","ALBUQUERQUE, NM","5,624","330975"
-"FOOD AND DRUG ADMINISTRATION","446286","2/6/2025","True Termination- Consolidation","ATLANTA, GA","17,000",
-"SOCIAL SECURITY ADMINISTRATION","24000","2/6/2025","True Termination- Lease Backfill","ROANOKE RAPIDS, NC","982","0"
-"RURAL HOUSING SERVICE","51045","2/6/2025","True Termination- Agency Direct Lease","BATESVILLE, AR","3,403","0"
-"NATURAL RESOURCES CONSERVATION SERVICE","22050","2/6/2025","True Termination- Lease Backfill","BATESVILLE, AR","1,470","0"
-"FARM SERVICE AGENCY - COUNTY","43365","2/6/2025","True Termination- Agency Direct Lease","BATESVILLE, AR","2,891","43365"
-"SOCIAL SECURITY ADMINISTRATION","29010","2/6/2025","True Termination- Agency Direct Lease","BATESVILLE, AR","1,934","0"
-"SOCIAL SECURITY ADMINISTRATION","81059","2/6/2025","True Termination- Move to Federal Space","COLUMBUS, OH","3,999","0"
-"SOCIAL SECURITY ADMINISTRATION","108966","2/6/2025","True Termination- Agency Closed Office","OKEMOS, MI","4,276","0"
-"UNITED STATES FISH AND WILDLIFE SERVICE","30612","2/6/2025","True Termination- Agency Closed Office","BROKEN BOW, OK","2,325","58673"
-"DEFENSE CONTRACT MANAGEMENT AGENCY- LOCAL","217084","2/6/2025","True Termination- Move to Federal Space","ADDISON, TX","8,905","416078"
-"SOCIAL SECURITY ADMINISTRATION","43207","2/6/2025","True Termination- Agency Closed Office","NACOGDOCHES, TX","1,717","86414"
-"BUREAU OF INDIAN AFFAIRS","2798","2/6/2025","True Termination- Agency Closed Office","CARNEGIE, OK","0","6063"
-"NATIONAL ARCHIVES CENTERS","478213","2/7/2025","True Termination- Agency Closed Office","FAIRFIELD, OH","124,569","39851"
-"BANKRUPTCY CLERK","1512990","2/7/2025","True Termination- Move to Federal Space","COLUMBUS, OH","61,371","0"
-"PROBATION","146733","2/7/2025","True Termination- Move to Federal Space","TOLEDO, OH","6,834","0"
-"SOCIAL SECURITY ADMINISTRATION","26229","2/7/2025","True Termination- Consolidation","GREEN BAY, WI","976","0"
-"GEOLOGICAL SURVEY","75290","2/7/2025","True Termination- Move to Federal Space","EL PASO, TX","3,409",
-"GEOLOGICAL SURVEY","1800000","2/7/2025","True Termination- Agency Direct Lease","MENLO PARK, CA","20,000","0"
-"NATIONAL ARCHIVES CENTERS","1480913","2/7/2025","True Termination- Consolidation","HOFFMAN ESTATES, IL","73,573","740457"
-"Multiple","13547","2/5/2025","True Termination- Agency Closed Office","HOUSTON, TX","555","67734"
-"Multiple","79520","2/7/2025","True Termination- Move to Federal Space","MCALLEN, TX","2,597","258439"
-"Multiple","18287","2/7/2025","True Termination- Agency Closed Office","BROWNSVILLE, TX","748","91437"
-"GEOLOGICAL SURVEY","118513","2/10/2025","True Termination- Agency Direct Lease","SANTA MARIA, CA","6,440","237027"
-"Multiple","1462643","2/10/2025","True Termination- Agency Closed Office","WASHINGTON, DC","30,193","0"
-"DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL","548896","2/11/2025","True Termination- Consolidation","BUFFALO, NY","18,163","0"
-"NATIONAL LABOR RELATIONS BOARD","1020916","2/11/2025","True Termination- Consolidation","BUFFALO, NY","37,644","0"
-"Multiple","795617","2/11/2025","True Termination- Agency Closed Office","WASHINGTON, DC","17,593","0"
-"Multiple","71820","2/12/2025","True Termination- Agency Closed Office","WASHINGTON, DC","2,061","0"
-"DHS UNITED STATES SECRET SERVICE","42000","2/12/2025","True Termination- Agency Closed Office","WASHINGTON, DC","0","0"
-"SOCIAL SECURITY ADMINISTRATION","65406","2/12/2025","True Termination- Move to Federal Space","LAS VEGAS, NV","1,895","16352"
-"ENVIRONMENTAL PROTECTION AGENCY","67411","2/12/2025","True Termination- Agency Closed Office","CHARLOTTE AMALIE, VI","1,277","0"
-"Multiple","31025","2/13/2025","True Termination- Agency Closed Office","AUBURN, CA","1,228","62051"
-"DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL","6067","2/13/2025","True Termination- Agency Closed Office","MERRILL, WI","393","6067"
-"Multiple","2547874","2/13/2025","True Termination- Move to Federal Space","WASHINGTON, DC","66,390","0"
-"DHS OFFICE OF THE UNDERSECRETARY FOR MANAGEMENT","2774013","2/13/2025","True Termination- Move to Federal Space","WASHINGTON, DC","59,681","0"
-"Multiple","342689","2/13/2025","True Termination- Agency Closed Office","LORTON, VA","15,280","0"
-"FEDERAL TRADE COMMISSION","223483","2/14/2025","True Termination- Move to Federal Space","ATLANTA, GA","8,360","0"
-"FEDERAL TRADE COMMISSION","11466505","2/14/2025","True Termination- Lease Backfill","WASHINGTON, DC","259,130",
-"DHS-CBP FIELD OPERATIONS FACILITIES","19938","2/14/2025","True Termination- Agency Closed Office","CHATTANOOGA, TN","1,023","0"
-"ALLOWANCE TO FORMER PRESIDENTS","128233","2/14/2025","True Termination- Agency Closed Office","ATLANTA, GA","7,682","544991"
-"DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY – DOD W","85087","2/14/2025","True Termination- Agency Closed Office","ST. LOUIS, MO","3,392","0"
-"Multiple","39208","2/14/2025","True Termination- Agency Closed Office","FOLSOM, CA","1,330","78417"
+sq_ft,date,location,description,ceiling_value,value,agency
+"3,076",1/22/25,"Miami, FL",Lease end date 2/28/25.,112278,7383,DEPARTMENT OF STATE
+"3,068",1/22/25,"Cincinnati, OH",Lease end date 6/30/25. ,75739,30295,BUREAU OF PRISONS
+"51,138",1/22/25,"Kansas City, Bureau of Prisons","Lease Termination sent 1/22/25, effective 2/1/26. Tenant will relocate into another local building.",900000,1275000,BUREAU OF PRISONS
+"4,599",1/22/25,"O’Fallon, IL, FAS Service Center","Lease Termination sent 1/22/25, effective 4/21/25.",99000,239250,FAS- OFFICE SPAC
+"2,983",1/23/25,"Fairborn, OH, FAS","Lease Termination sent 1/23/25, effective 4/22/25. ",51000,80292,FAS- OFFICE SPAC
+"119,812",1/27/25,"Atlanta, GA, CDC","Lease Termination sent 1/27/25, effective 5/31/25.",2473060,2060883,CENTER FOR DISEASE CONTROL
+"3,719",1/27/25,"Charlottesville, VA",Termination for LVA09326 - agency released space currently vacant. Lease termination is 01/27/2025,124121,0,MULTIPLE
+"16,632",1/29/25,"White Plains, NY",Lease termination notice sent 1/29/25. Lease will terminate at original expiration on 5/31/25.,511908,162689,SOCIAL SECURITY ADMINISTRATION
+"55,043",1/29/25,"Arlington, VA",Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.,2595912,0,MULTIPLE
+"49,662",1/29/25,"Arlington, VA",Lease termination notice sent 1/29/25. Lease has been in holdover and will now terminate on 1/31/25.,2440578,0,DHS OFFICE OF THE UNDERSECRETARY FOR MANAGEMENT
+"5,421",1/29/25,"Middleburg Heights, OH",True Termination- Agency Closed Office,96568,193136,PBS
+"845,389",1/30/25,"Washington, DC",Lease termination notice sent 1/30/25. Termination effective at original expiration on 5/14/25.,26357330,7148974,BUREAU OF LABOR STATISTICS
+"46,821",1/30/25,"Washington, DC",Lease termination notice sent 1/30/25. Termination effective on 4/30/25.,2087093,1898397,MULTIPLE
+250,1/31/2025,"New York, NY",True Termination- Agency Closed Office,63000,4142,DHS UNITED STATES SECRET SERVICE
+"5,598",1/31/2025,"Riverdale Park, MD",True Termination- Consolidation,198065,32559,MULTIPLE
+0,1/31/2025,"New York, NY",True Termination- Agency Closed Office,1786302,1316480,U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)
+"22,195",1/31/2025,"Washington, DC",True Termination- Move to Federal Space,1052263,1150282,FIELD OFFICES
+0,1/31/2025,"New York, NY",True Termination- Agency Closed Office,1834070,2261182,U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)
+"7,852",2/3/2025,"Logan, WV",agency closing office temporarily,196028,45650,SOCIAL SECURITY ADMINISTRATION
+"5,255",2/3/2025,"Washington, DC",True Termination- Consolidation,266445,196366,DEPARTMENT OF EDUCATION
+"6,610",2/3/2025,"LOS ANGELES, CA",True Termination- Agency Closed Office,463440,0,DOD -WHS
+"1,300",2/4/2025,"REHOBOTH BEACH, DE",True Termination- Agency Closed Office,120000,0,MULTIPLE
+"2,400",2/4/2025,"REHOBOTH BEACH, DE",True Termination- Agency Closed Office,308975,0,DHS UNITED STATES SECRET SERVICE
+"2,740",2/4/2025,"REHOBOTH BEACH, DE",True Termination- Agency Closed Office,156300,0,DEFENSE INFORMATION SYSTEMS AGENCY
+"2,350",2/4/2025,"WILMINGTON, DE",True Termination- Agency Closed Office,89250,0,DOD -WHS
+"2,958",2/4/2025,"CHAMPAIGN, IL",True Termination- Agency Closed Office,57893,0,OFFICE OF THE COMPTROLLER OF THE CURRENCY
+"13,441",2/4/2025,"WILMINGTON, DE",True Termination- Agency Closed Office,528160,0,DHS UNITED STATES SECRET SERVICE
+"1,000",2/4/2025,"PHILADELPHIA, PA",True Termination- Agency Closed Office,39348,0,DHS UNITED STATES SECRET SERVICE
+0,2/4/2025,"WILMINGTON, DE",True Termination- Agency Closed Office,249975,0,DHS UNITED STATES SECRET SERVICE
+959,2/4/2025,"LEBANON, NH",True Termination- Agency Closed Office,29098,0,SMALL BUSINESS ADMINISTRATION
+330,2/4/2025,"YAKIMA, WA",True Termination- Vacant Space Buyout,2580,0,DRUG ENFORCEMENT ADMINISTRATION
+"23,394",2/4/2025,"SEATTLE, WA",True Termination- Move to Federal Space,1046843,946460,GOVERNMENT ACCOUNTABILITY OFFICE
+"3,579",2/4/2025,"CARLSBAD, CA",True Termination- Consolidation,116449,0,SOCIAL SECURITY ADMINISTRATION
+"7,322",2/5/2025,"MILWAUKEE, WI",True Termination- Move to Federal Space,186700,0,DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL
+"1,000",2/5/2025,"MIDDLEBURG HEIGHTS, OH",True Termination- Agency Closed Office,15299,0,MULTIPLE
+"1,200",1/30/2025,"LOS ANGELES, CA",True Termination- Agency Closed Office,35340,0,DHS UNITED STATES SECRET SERVICE
+"16,439",1/30/2025,"LOS ANGELES, CA",True Termination- Agency Closed Office,599399,0,MULTIPLE
+"46,567",1/30/2025,"PHOENIX, AZ",True Termination- Consolidation,1168475,0,PUBLIC DEFENDER SERVICE
+"2,193",1/30/2025,"PHOENIX, AZ",True Termination- Vacant Space Buyout,44990,221199,MULTIPLE
+"2,551",1/30/2025,"BREA, CA",True Termination- Vacant Space Buyout,73826,0,MULTIPLE
+"5,560",2/2/2025,"TOPEKA, KS",True Termination- Agency Closed Office,121818,964396,RISK MANAGEMENT AGENCY (RMA)
+"4,998",2/4/2025,"ABILENE, TX",True Termination- Agency Closed Office,68743,0,DHS TRANSPORTATION SECURITY ADMINISTRATION
+0,2/4/2025,"AUSTIN, TX",True Termination- Agency Closed Office,139440,23240,U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)
+"2,257",2/4/2025,"DAYTON, OH",True Termination- Agency Closed Office,33574,0,UNITED STATES TRUSTEES
+351,2/4/2025,"DAVENPORT, IA",True Termination- Agency Closed Office,6435,20376,"EMPLOY. AND TRAIN. ADMIN., BUR. OF APPRENTICESHIP AND T"
+"2,871",2/4/2025,"MADISON, WI",True Termination- Agency Closed Office,58142,290709,UNITED STATES FISH AND WILDLIFE SERVICE
+"3,201",2/4/2025,"AKRON, OH",True Termination- Move to Federal Space,48404,0,DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL
+"3,853",2/4/2025,"BIRMINGHAM, AL",True Termination- Move to Federal Space,101211,227725,NATIONAL LABOR RELATIONS BOARD
+"23,860",2/4/2025,"MOBILE, AL",True Termination- Agency Direct Lease,722044,0,"CORPS OF ENGINEERS, CIVIL"
+"1,120",2/5/2025,"LAS CRUCES, NM",True Termination- Move to Federal Space,27109,6777,VETERANS BENEFITS ADMINISTRATION
+"5,300",2/6/2025,"NORTH ANDOVER CENTER, MA",True Termination- Consolidation,115664,67470,DRUG ENFORCEMENT ADMINISTRATION
+440,2/6/2025,"FAYETTEVILLE, AR",True Termination- Move to Federal Space,11096,0,"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+"17,000",2/6/2025,"ATLANTA, GA",True Termination- Consolidation,446286,,FOOD AND DRUG ADMINISTRATION
+982,2/6/2025,"ROANOKE RAPIDS, NC",True Termination- Lease Backfill,24000,0,SOCIAL SECURITY ADMINISTRATION
+"3,403",2/6/2025,"BATESVILLE, AR",True Termination- Agency Direct Lease,51045,0,RURAL HOUSING SERVICE
+"1,470",2/6/2025,"BATESVILLE, AR",True Termination- Lease Backfill,22050,0,NATURAL RESOURCES CONSERVATION SERVICE
+"2,891",2/6/2025,"BATESVILLE, AR",True Termination- Agency Direct Lease,43365,43365,FARM SERVICE AGENCY - COUNTY
+"1,934",2/6/2025,"BATESVILLE, AR",True Termination- Agency Direct Lease,29010,0,SOCIAL SECURITY ADMINISTRATION
+"3,999",2/6/2025,"COLUMBUS, OH",True Termination- Move to Federal Space,81059,0,SOCIAL SECURITY ADMINISTRATION
+"4,276",2/6/2025,"OKEMOS, MI",True Termination- Agency Closed Office,108966,0,SOCIAL SECURITY ADMINISTRATION
+"2,325",2/6/2025,"BROKEN BOW, OK",True Termination- Agency Closed Office,30612,58673,UNITED STATES FISH AND WILDLIFE SERVICE
+"8,905",2/6/2025,"ADDISON, TX",True Termination- Move to Federal Space,217084,416078,DEFENSE CONTRACT MANAGEMENT AGENCY- LOCAL
+"1,717",2/6/2025,"NACOGDOCHES, TX",True Termination- Agency Closed Office,43207,86414,SOCIAL SECURITY ADMINISTRATION
+0,2/6/2025,"CARNEGIE, OK",True Termination- Agency Closed Office,2798,6063,BUREAU OF INDIAN AFFAIRS
+"124,569",2/7/2025,"FAIRFIELD, OH",True Termination- Agency Closed Office,478213,39851,NATIONAL ARCHIVES CENTERS
+"61,371",2/7/2025,"COLUMBUS, OH",True Termination- Move to Federal Space,1512990,0,BANKRUPTCY CLERK
+"6,834",2/7/2025,"TOLEDO, OH",True Termination- Move to Federal Space,146733,0,PROBATION
+976,2/7/2025,"GREEN BAY, WI",True Termination- Consolidation,26229,0,SOCIAL SECURITY ADMINISTRATION
+"3,409",2/7/2025,"EL PASO, TX",True Termination- Move to Federal Space,75290,,GEOLOGICAL SURVEY
+"20,000",2/7/2025,"MENLO PARK, CA",True Termination- Agency Direct Lease,1800000,0,GEOLOGICAL SURVEY
+"73,573",2/7/2025,"HOFFMAN ESTATES, IL",True Termination- Consolidation,1480913,740457,NATIONAL ARCHIVES CENTERS
+555,2/5/2025,"HOUSTON, TX",True Termination- Agency Closed Office,13547,67734,MULTIPLE
+"2,597",2/7/2025,"MCALLEN, TX",True Termination- Move to Federal Space,79520,258439,MULTIPLE
+"6,440",2/10/2025,"SANTA MARIA, CA",True Termination- Agency Direct Lease,118513,237027,GEOLOGICAL SURVEY
+"30,193",2/10/2025,"WASHINGTON, DC",True Termination- Agency Closed Office,1462643,0,MULTIPLE
+"18,163",2/11/2025,"BUFFALO, NY",True Termination- Consolidation,548896,0,DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL
+"37,644",2/11/2025,"BUFFALO, NY",True Termination- Consolidation,1020916,0,NATIONAL LABOR RELATIONS BOARD
+"17,593",2/11/2025,"WASHINGTON, DC",True Termination- Agency Closed Office,795617,0,MULTIPLE
+"2,061",2/12/2025,"WASHINGTON, DC",True Termination- Agency Closed Office,71820,0,MULTIPLE
+0,2/12/2025,"WASHINGTON, DC",True Termination- Agency Closed Office,42000,0,DHS UNITED STATES SECRET SERVICE
+"1,895",2/12/2025,"LAS VEGAS, NV",True Termination- Move to Federal Space,65406,16352,SOCIAL SECURITY ADMINISTRATION
+"1,277",2/12/2025,"CHARLOTTE AMALIE, VI",True Termination- Agency Closed Office,67411,0,ENVIRONMENTAL PROTECTION AGENCY
+"1,228",2/13/2025,"AUBURN, CA",True Termination- Agency Closed Office,31025,62051,MULTIPLE
+393,2/13/2025,"MERRILL, WI",True Termination- Agency Closed Office,6067,6067,DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL
+"66,390",2/13/2025,"WASHINGTON, DC",True Termination- Move to Federal Space,2547874,0,MULTIPLE
+"59,681",2/13/2025,"WASHINGTON, DC",True Termination- Move to Federal Space,2774013,0,DHS OFFICE OF THE UNDERSECRETARY FOR MANAGEMENT
+"15,280",2/13/2025,"LORTON, VA",True Termination- Agency Closed Office,342689,0,MULTIPLE
+"8,360",2/14/2025,"ATLANTA, GA",True Termination- Move to Federal Space,223483,0,FEDERAL TRADE COMMISSION
+"259,130",2/14/2025,"WASHINGTON, DC",True Termination- Lease Backfill,11466505,,FEDERAL TRADE COMMISSION
+"1,023",2/14/2025,"CHATTANOOGA, TN",True Termination- Agency Closed Office,19938,0,DHS-CBP FIELD OPERATIONS FACILITIES
+"7,682",2/14/2025,"ATLANTA, GA",True Termination- Agency Closed Office,128233,544991,ALLOWANCE TO FORMER PRESIDENTS
+"3,392",2/14/2025,"ST. LOUIS, MO",True Termination- Agency Closed Office,85087,0,DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY – DOD W
+"1,330",2/14/2025,"FOLSOM, CA",True Termination- Agency Closed Office,39208,78417,MULTIPLE
+"4,045",2/18/2025,"SAINT AUGUSTINE, FL",Agency entering into a license agreement with Northrop Grumman for their space,78878,0,DEFENSE CONTRACT MANAGEMENT AGENCY- NATIONAL
+"4,328",2/18/2025,"CRAIG, CO",True Termination- Agency Closed Office,184283,0,MINE SAFETY HEALTH ADMINISTRATION
+"1,743",2/19/2025,"ROCKFORD, IL",True Termination- Agency Closed Office,36768,61280,SOCIAL SECURITY ADMINISTRATION
+"10,895",2/19/2025,"ROCK ISLAND, IL",Agency moving to Rock Island Leased Courthouse,192352,192352,U.S. IMMIGRATION & CUSTOMS ENFORCEMENT (ICE)
+"1,449",2/20/2025,"ST. JOSEPH, MO",True Termination- Consolidation,34252,0,FEDERAL BUREAU OF INVESTIGATION
+"88,469",2/20/2025,"ARLINGTON, VA",True Termination- Move to Federal Space,3016102,0,MINE SAFETY HEALTH ADMINISTRATION
+"64,471",2/21/2025,"SILVER SPRING, MD",True Termination- Agency Closed Office,2006132,0,MULTIPLE
+"29,744",2/21/2025,"DERWOOD, MD",True Termination- Agency Closed Office,884357,0,MULTIPLE
+0,2/21/2025,"HARTFORD, CT",True Termination- Agency Closed Office,8400,23100,"FAS, REG 01 FLEET MANAGEMENT FACILITIES"
+"5,736",2/21/2025,"SAN JOSE, CA",True Termination: Agency Approved Termination,306439,1174681,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+"6,242",2/21/2025,"YREKA, CA",True Termination: Agency Approved Termination,126132,126132,NATURAL RESOURCES CONSERVATION SERVICE
+"7,915",2/21/2025,"MISSOULA, MT","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development",262922,87641,SOCIAL SECURITY ADMINISTRATION
+"7,869",2/21/2025,"WATERTOWN, SD","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development.",238328,278049,FARM SERVICE AGENCY - COUNTY
+"7,975",2/21/2025,"GRAND JUNCTION, CO","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development",273418,432912,SOCIAL SECURITY ADMINISTRATION
+"7,699",2/21/2025,"KALISPELL, MT","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development",151400,63083,SOCIAL SECURITY ADMINISTRATION
+750,2/21/2025,"ST. GEORGE, UT","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development.",50400,252000,BUREAU OF INDIAN AFFAIRS
+0,2/21/2025,"BISMARCK, ND",True Termination- Agency Closed Office,2016,2520,"FAS, REG 08 FLEET MANAGEMENT FACILITIES"
+"14,800",2/21/2025,"FARGO, ND","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development.",244940,,FARM SERVICE AGENCY- STATE
+"5,950",2/21/2025,"MINOT, ND","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development.",163718,586657,SOCIAL SECURITY ADMINISTRATION
+"2,190",2/21/2025,"COLLIERVILLE, TN",True Termination- Agency Closed Office,40141,137149,FEDERAL MEDIATION AND CONCILIATION SERVICE
+"11,400",2/21/2025,"HORSEHEADS, NY",Agency response on no longer a need for space provided by Portfolio.,311690,0,SOCIAL SECURITY ADMINISTRATION
+"16,292",2/21/2025,"SHELBY, MT",True Termination- Agency Closed Office,363559,0,BORDER PATROL FACILITIES
+"5,485",2/21/2025,"PORTLAND, OR",Agency indicated they could release this space if replacement space was procured.,132796,0,AGRICULTURAL MARKETING SERVICE
+"4,237",2/21/2025,"ST. LOUIS, MO",True Termination- Agency Closed Office,122625,337219,FEDERAL MEDIATION AND CONCILIATION SERVICE
+570,2/21/2025,"MELBOURNE, FL",True Termination- Agency Closed Office,8862,,SMALL BUSINESS ADMINISTRATION
+315,2/21/2025,"CHICO, CA",True Termination- Agency Closed Office,7560,0,SMALL BUSINESS ADMINISTRATION
+"12,926",2/21/2025,"ANNISTON, AL",True Termination- Agency Closed Office,304228,608457,SOCIAL SECURITY ADMINISTRATION
+"4,539",2/21/2025,"HERNDON, VA",True Termination- Agency Closed Office,128333,0,BUR OF INDUSTRY & SECURITY
+"2,178",2/21/2025,"BUFFALO, NY",End of term,44352,0,FEDERAL MEDIATION AND CONCILIATION SERVICE
+"75,000",2/21/2025,"NORTH CHARLESTON, SC",True Termination- Agency Closed Office,725132,0,DEPARTMENT OF AIR FORCE
+"12,750",2/21/2025,"CAMPBELLSVILLE, KY",True Termination- Agency Closed Office,295794,1207824,SOCIAL SECURITY ADMINISTRATION
+"7,361",2/21/2025,"CULLMAN, AL",True Termination- Agency Closed Office,180784,512221,SOCIAL SECURITY ADMINISTRATION
+"5,118",2/21/2025,"MOBILE, AL",True Termination- Agency Closed Office,112596,243958,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+"1,450",2/21/2025,"GADSDEN, AL",True Termination- Agency Closed Office,32357,67410,SOCIAL SECURITY ADMINISTRATION
+"8,919",2/21/2025,"JASPER, AL",True Termination- Agency Closed Office,186411,,SOCIAL SECURITY ADMINISTRATION
+"17,844",2/21/2025,"GAINESVILLE, GA",True Termination- Agency Closed Office,506527,1688423,SOCIAL SECURITY ADMINISTRATION
+"10,133",2/21/2025,"VIDALIA, GA",True Termination- Agency Closed Office,228757,285947,SOCIAL SECURITY ADMINISTRATION
+"9,856",2/21/2025,"BRUNSWICK, GA",True Termination- Agency Closed Office,215383,341023,SOCIAL SECURITY ADMINISTRATION
+"11,150",2/21/2025,"THOMASVILLE, GA",True Termination- Agency Closed Office,289139,819228,SOCIAL SECURITY ADMINISTRATION
+"3,830",2/24/2025,"Boulder, CO","Termination details are still being finalized. The lessor and customer have been notified, and the strategy is under development.",49575,,GEOLOGICAL SURVEY
+600,2/24/2025,"OXFORD, MS",True Termination- Agency Closed Office,9228,16149,UNITED STATES MARSHALS SERVICE
+"8,946",2/24/2025,"GRENADA, MS",True Termination- Agency Closed Office,255140,127570,SOCIAL SECURITY ADMINISTRATION
+"7,161",2/24/2025,"PEARL, MS",True Termination- Agency Closed Office,112316,,NATURAL RESOURCES CONSERVATION SERVICE
+"11,100",2/24/2025,"GREENWOOD, MS",True Termination- Agency Closed Office,263435,504916,SOCIAL SECURITY ADMINISTRATION
+"9,796",2/24/2025,"MERIDIAN, MS",True Termination- Agency Closed Office,229983,977426,SOCIAL SECURITY ADMINISTRATION
+"14,000",2/24/2025,"POUGHKEEPSIE, NY",End of term planned for 7/31/25.,359135,,SOCIAL SECURITY ADMINISTRATION
+"2,250",2/24/2025,"AIKEN, SC",True Termination- Agency Closed Office,42225,200568,SAVANNAH RIVER OPERATIONS OFFICE
+"39,235",2/24/2025,"LEXINGTON-FAYETTE, KY",True Termination- Agency Closed Office,786167,917195,FARM SERVICE AGENCY- STATE
+"5,846",2/24/2025,"GREENSBORO, NC",True Termination- Agency Closed Office,107197,348390,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+"7,914",2/24/2025,"ELIZABETH CITY, NC",Per Agency Guideline to Terminate,200937,887470,SOCIAL SECURITY ADMINISTRATION
+"30,123",2/24/2025,"GREENSBORO, NC",Early Termination,731294,2376707,NATURAL RESOURCES CONSERVATION SERVICE
+"1,652",2/24/2025,"HAZARD, KY",True Termination- Agency Closed Office,38031,3169,SOCIAL SECURITY ADMINISTRATION
+"8,727",2/24/2025,"GREENWOOD, SC",True Termination- Agency Closed Office,154546,141668,SOCIAL SECURITY ADMINISTRATION
+"9,298",2/24/2025,"LAWTON, OK",Agency confirmed closure is approved,223220,55805,SOCIAL SECURITY ADMINISTRATION
+"8,895",2/24/2025,"FRANKLIN, NC",True Termination- Agency Closed Office,276309,1059184,SOCIAL SECURITY ADMINISTRATION
+"1,415",2/24/2025,"MELBOURNE, FL",True Termination- Agency Closed Office,59697,263660,SOCIAL SECURITY ADMINISTRATION
+"3,900",2/24/2025,"LOWELL, MA",True Termination- Agency Closed Office,44853,149509,NATIONAL PARK SERVICE
+"36,752",2/24/2025,"LOWELL, MA",True Termination- Move to Federal Space,1189592,0,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"1,342",2/24/2025,"ABILENE, TX",Agency approved of termination,26261,39391,SOCIAL SECURITY ADMINISTRATION
+"13,775",2/25/2025,"GREENVILLE, NC",Per Agency Request to Terminate,374170,997787,SOCIAL SECURITY ADMINISTRATION
+"3,974",2/25/2025,"LITTLE ROCK, AR",Agency approved lease termination,85875,0,AGRICULTURAL MARKETING SERVICE
+"5,287",2/25/2025,"RALEIGH, NC",True Termination- Move to Federal Space,142636,,"BUR OF ALCOHOL,TOBACCO,FIREARMS & EXPLOSIVES"
+"1,920",2/25/2025,"IDAHO FALLS, ID",Termination via Mass Mod,34856,223657,AGRICULTURAL MARKETING SERVICE
+"12,774",2/25/2025,"FORREST CITY, AR",Agency approved lease termination,387856,32321,SOCIAL SECURITY ADMINISTRATION
+922,2/25/2025,"SEWARD, AK",Termination via Mass Mod,22665,24554,NATIONAL OCEANIC ATMOSPHERIC ADMINISTRATION
+"1,595",2/25/2025,"JUNEAU, AK",Termination via Mass Mod,20520,1710,NATIONAL OCEANIC ATMOSPHERIC ADMINISTRATION
+"22,428",2/25/2025,"AMHERST, MA",Termination via Mass Mod,484122,80687,NATURAL RESOURCES CONSERVATION SERVICE
+"5,712",2/25/2025,"ST. JOHNSBURY, VT",Termination via Mass Mod,137222,160092,NATURAL RESOURCES CONSERVATION SERVICE
+"19,716",2/25/2025,"PALMER, AK",Termination via Mass Mod,540911,2839785,RURAL HOUSING SERVICE
+460,2/25/2025,"SHOW LOW, AZ",Termination via Mass Mod,11013,6424,SMALL BUSINESS ADMINISTRATION
+"1,946",2/25/2025,"MESA, AZ",Termination via Mass Mod,36974,43136,RAILROAD RETIREMENT BOARD
+"1,500",2/25/2025,"FREDONIA, AZ",Termination via Mass Mod,22860,0,BUREAU OF INDIAN AFFAIRS
+"1,715",2/25/2025,"PALMDALE, CA",Termination via Mass Mod,59748,219076,DEFENSE COUNTERINTELLIGENCE AND SECURITY AGENCY – DOD W
+"1,527",2/25/2025,"LOS ANGELES, CA",Termination via Mass Mod,40084,33403,AGRICULTURAL MARKETING SERVICE
+"1,303",2/25/2025,"NEW LONDON, CT",Termination via Mass Mod,41732,104330,OFFICE OF ADMINISTRATIVE LAW JUDGES
+"1,380",2/25/2025,"STAMFORD, CT",Termination via Mass Mod,71191,308496,ENVIRONMENTAL PROTECTION AGENCY
+"1,427",2/25/2025,"HILO, HI",Termination via Mass Mod,70396,310916,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"1,273",2/25/2025,"SUTTON, MA",Termination via Mass Mod,33554,67109,ANIMAL AND PLANT HEALTH INSPECTION SERVICE
+"1,160",2/25/2025,"JESSUP, MD",Termination via Mass Mod,30481,91443,AGRICULTURAL MARKETING SERVICE
+"1,018",2/25/2025,"VENTNOR CITY, NJ",Termination via Mass Mod,26157,235411,OFFICE OF INSPECTOR GENERAL
+"2,000",2/25/2025,"FARMINGTON, NM",Termination via Mass Mod,62677,485746,INDIAN HEALTH SERVICE NAVAJO
+"41,676",2/25/2025,"TULSA, OK",Termination via Mass Mod,745987,6340888,OFFICE OF SURFACE MINING AND REGULATION ENFORCEMENT
+443,2/25/2025,"STATE COLLEGE, PA",Termination via Mass Mod,12131,45491,"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+612,2/25/2025,"HARLINGEN, TX",Termination via Mass Mod,8748,15310,"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+920,2/25/2025,"UVALDE, TX",Termination via Mass Mod,20070,58538,ANIMAL AND PLANT HEALTH INSPECTION SERVICE
+911,2/25/2025,"HAMPTON, VA",Termination via Mass Mod,17890,5963,NATIONAL OCEANIC ATMOSPHERIC ADMINISTRATION
+"1,391",2/25/2025,"BRATTLEBORO, VT",Termination via Mass Mod,41238,65294,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"1,525",2/25/2025,"SEFFNER, FL",Termination via Mass Mod,21855,7285,NATIONAL OCEANIC ATMOSPHERIC ADMINISTRATION
+"1,209",2/25/2025,"OXNARD, CA",Termination via Mass Mod,53075,75189,NATURAL RESOURCES CONSERVATION SERVICE
+"2,324",2/25/2025,"RALEIGH, NC",True Termination- Move to Federal Space,64157,74850,DEPARTMENTAL MANAGEMENT (IG)
+648,2/25/2025,"GREENSBORO, NC",True Termination- Agency Closed Office,10928,14571,SMALL BUSINESS ADMINISTRATION
+"1,436",2/25/2025,"TEXARKANA, AR",Agency approved lease termination,25643,36328,SOCIAL SECURITY ADMINISTRATION
+"4,349",2/25/2025,"WILMINGTON, NC",True Termination- Agency Closed Office,53011,83934,"CORPS OF ENGINEERS, CIVIL"
+"13,152",2/25/2025,"HOUMA, LA",Agency approved lease termination,551751,965564,SOCIAL SECURITY ADMINISTRATION
+"11,795",2/25/2025,"VICTORIA, TX",Agency approved lease termination,320286,1121001,SOCIAL SECURITY ADMINISTRATION
+"9,733",2/25/2025,"SALEM, OR",Termination via Mass Mod,262927,679228,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"20,326",2/25/2025,"ANCHORAGE, AK",Termination via Mass Mod,855176,2209205,GEOLOGICAL SURVEY
+"4,446",2/25/2025,"FAIRBANKS, AK",Termination via Mass Mod,144092,84054,NATURAL RESOURCES CONSERVATION SERVICE
+"4,200",2/25/2025,"WASILLA, AK",Termination via Mass Mod,100700,562242,NATURAL RESOURCES CONSERVATION SERVICE
+"5,179",2/25/2025,"BOISE, ID",Termination via Mass Mod,111193,1019271,FEDERAL HIGHWAY ADMINISTRATION
+"2,925",2/25/2025,"IDAHO FALLS, ID",Termination via Mass Mod,52743,8790,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"13,681",2/25/2025,"IDAHO FALLS, ID",Termination via Mass Mod,69756,488290,NATIONAL OCEANIC ATMOSPHERIC ADMINISTRATION
+"6,589",2/25/2025,"SALEM, OR",Termination via Mass Mod,158557,924916,FEDERAL HIGHWAY ADMINISTRATION
+"2,200",2/25/2025,"SALEM, OR",Termination via Mass Mod,50786,283555,FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+"3,386",2/25/2025,"BEND, OR",Termination via Mass Mod,94681,725888,BUREAU OF RECLAMATION
+"6,849",2/25/2025,"CORVALLIS, OR",Termination via Mass Mod,202142,1414992,GEOLOGICAL SURVEY
+"6,156",2/25/2025,"BEND, OR",Termination via Mass Mod,192066,1392480,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"2,930",2/25/2025,"PUYALLUP, WA",Termination via Mass Mod,85239,298336,NATURAL RESOURCES CONSERVATION SERVICE
+"4,449",2/25/2025,"CINCINNATI, OH",Termination via Mass Mod,102456,145145,OFFICE OF LABOR MANAGEMENT STANDARDS
+"4,320",2/25/2025,"DAYTON, WA",Termination via Mass Mod,41342,3445,NATURAL RESOURCES CONSERVATION SERVICE
+"5,358",2/25/2025,"HENDERSONVILLE, NC",Termination via Mass Mod,111756,0,FARM SERVICE AGENCY - COUNTY
+"2,166",2/25/2025,"RATON, NM",Termination via Mass Mod,32212,0,NATURAL RESOURCES CONSERVATION SERVICE
+"5,254",2/25/2025,"SIOUX CITY, IA",Termination via Mass Mod,104186,17364,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"10,471",2/25/2025,"LINCOLN, NE",Termination via Mass Mod,188448,62816,NATURAL RESOURCES CONSERVATION SERVICE
+"8,433",2/25/2025,"SALT LAKE CITY, UT",Termination via Mass Mod,261736,632529,UNITED STATES TRUSTEES
+"11,057",2/25/2025,"OVERLAND PARK, KS",Termination via Mass Mod,225718,75239,NATIONAL LABOR RELATIONS BOARD
+"4,133",2/25/2025,"NASHVILLE, TN",True Termination- Agency Closed Office,142577,0,SOCIAL SECURITY ADMINISTRATION
+"2,999",2/25/2025,"FALMOUTH, ME",Termination via Mass Mod,70616,247157,UNITED STATES FISH AND WILDLIFE SERVICE
+"4,846",2/25/2025,"LAWRENCE, KS",Termination via Mass Mod,120110,70064,NATURAL RESOURCES CONSERVATION SERVICE
+"14,366",2/25/2025,"SIOUX CITY, IA",Termination via Mass Mod,217139,126664,OFFICE OF U.S. ATTORNEYS
+"17,039",2/25/2025,"CORPUS CHRISTI, TX",Termination via Mass Mod,409689,307267,OFFICE OF U.S. ATTORNEYS
+"4,819",2/25/2025,"BEAUMONT, TX",Termination via Mass Mod,115076,105487,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"7,549",2/25/2025,"PAWNEE, OK",Termination via Mass Mod,156171,156171,BUREAU OF INDIAN AFFAIRS
+"9,825",2/25/2025,"SEMINOLE, OK",Termination via Mass Mod,184770,184770,BUREAU OF INDIAN AFFAIRS
+"6,401",2/25/2025,"OKLAHOMA CITY, OK",Termination via Mass Mod,133605,155873,OCCUPATIONAL SAFETY AND HEALTH ADMINISTRATION
+"7,500",2/25/2025,"MESA, AZ",Termination via Mass Mod,305100,355950,FOREST SERVICE
+970,2/25/2025,"NEW ORLEANS, LA",Termination via Mass Mod,17460,20370,BUREAU OF MINERALS MANAGEMENT SERVICE
+"5,036",2/25/2025,"SAN ANTONIO, TX",Termination via Mass Mod,129035,161294,"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+"4,896",2/25/2025,"BEMIDJI, MN",Termination via Mass Mod,133916,178554,INDIAN HEALTH SERVICE-BEMIDJI
+"5,449",2/25/2025,"LUFKIN, TX",Termination via Mass Mod,88956,118609,OFFICE OF U.S. ATTORNEYS
+891,2/25/2025,"BATON ROUGE, LA",Termination via Mass Mod,28818,40826,IG FOR TAX ADMINISTRATION
+"76,372",2/25/2025,"HYATTSVILLE, MD",True Termination- Move to Federal Space,2543781,4239635,DEPT OF TREASURY-BUREAU OF THE FISCAL SERVICE
+"3,703",2/25/2025,"KNOXVILLE, TN",Termination via Mass Mod,69357,109816,INTERNAL REVENUE SERVICE NATIONAL OFFICE
+"5,000",2/25/2025,"OKLAHOMA CITY, OK",Termination via Mass Mod,119951,189922,INDIAN HEALTH SERVICE -OKLAHOMA
+"2,850",2/25/2025,"WATONGA, OK",Termination via Mass Mod,38573,61074,BUREAU OF INDIAN AFFAIRS
+"16,787",2/25/2025,"TOLEDO, OH",Termination via Mass Mod,431551,755214,OFFICE OF U.S. ATTORNEYS
+"7,973",2/25/2025,"EL PASO, TX",Termination via Mass Mod,154936,296960,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION
+"1,609",2/25/2025,"OKLAHOMA CITY, OK",Termination via Mass Mod,20113,40225,ANIMAL AND PLANT HEALTH INSPECTION SERVICE
+"13,531",2/25/2025,"CHICAGO, IL",Termination via Mass Mod,471820,943641,FEDERAL TRANSIT ADMINISTRATION
+"13,865",2/25/2025,"HOUMA, LA",Termination via Mass Mod,429459,858919,BUREAU OF MINERALS MANAGEMENT SERVICE
+"90,850",2/25/2025,"CARLSBAD, NM",Termination via Mass Mod,810599,1756298,DOE-CARLSBAD OFFICE
+"1,378",2/25/2025,"GLADSTONE, MO",Termination via Mass Mod,28600,61966,ANIMAL AND PLANT HEALTH INSPECTION SERVICE
+320,2/25/2025,"LONGVIEW, TX",Termination via Mass Mod,5101,11052,"EMPLOYMENT STANDARDS ADMINISTRATION, WAGE AND HOUR DIVI"
+"2,520",2/25/2025,"HOUSTON, TX",Termination via Mass Mod,56866,132687,ANIMAL AND PLANT HEALTH INSPECTION SERVICE
+"4,900",2/25/2025,"PARAGOULD, AR",Termination via Mass Mod,90074,210172,FARM SERVICE AGENCY - COUNTY
+"5,171",2/25/2025,"CONWAY, AR",Termination via Mass Mod,105549,255077,NATURAL RESOURCES CONSERVATION SERVICE
+"33,119",2/25/2025,"MUSKOGEE, OK",Termination via Mass Mod,1272005,3710015,OFFICE OF U.S. ATTORNEYS
+"14,478",2/25/2025,"SAN ANTONIO, TX",Termination via Mass Mod,284992,902473,NATIONAL PARK SERVICE
+"22,216",2/25/2025,"ALBUQUERQUE, NM",Termination via Mass Mod,448520,1681950,FOREST SERVICE
