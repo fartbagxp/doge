@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-      - dev/uv-rewrite
-  schedule:
-    - cron: '16 12 * * *'
+  # schedule:
+  #   - cron: '16 12 * * *'
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Set date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+        run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
       - name: Commit DOGE changes
         uses: EndBug/add-and-commit@v9.1.4
