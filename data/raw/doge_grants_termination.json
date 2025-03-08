@@ -86,6 +86,12 @@
   {
     "update_date": "2/10/2025",
     "agency": "Department Of Education",
+    "ceiling_value": "9146065",
+    "value": "2411784"
+  },
+  {
+    "update_date": "2/10/2025",
+    "agency": "Department Of Education",
     "ceiling_value": "7220136",
     "value": "2140529"
   },
@@ -334,6 +340,12 @@
     "agency": "USAID",
     "ceiling_value": "26490383",
     "value": "0"
+  },
+  {
+    "update_date": "2/11/2025",
+    "agency": "USAID",
+    "ceiling_value": "14950000",
+    "value": "4980000"
   },
   {
     "update_date": "2/11/2025",
@@ -604,6 +616,12 @@
     "agency": "USAID",
     "ceiling_value": "7500000",
     "value": "3494361"
+  },
+  {
+    "update_date": "2/6/2025",
+    "agency": "USAID",
+    "ceiling_value": "49964668",
+    "value": "18948168"
   },
   {
     "update_date": "2/6/2025",
@@ -882,6 +900,12 @@
     "value": "13964718"
   },
   {
+    "update_date": "2/10/2025",
+    "agency": "USAID",
+    "ceiling_value": "55000000",
+    "value": "9891193"
+  },
+  {
     "update_date": "2/11/2025",
     "agency": "USAID",
     "ceiling_value": "14500000",
@@ -1118,6 +1142,12 @@
   {
     "update_date": "2/12/2025",
     "agency": "Department Of Education",
+    "ceiling_value": "3356160",
+    "value": "3132044.75"
+  },
+  {
+    "update_date": "2/12/2025",
+    "agency": "Department Of Education",
     "ceiling_value": "9719230",
     "value": "7466040.88"
   },
@@ -1330,6 +1360,12 @@
     "agency": "Department Of Education",
     "ceiling_value": "8407872",
     "value": "8397522.1"
+  },
+  {
+    "update_date": "2/12/2025",
+    "agency": "Department Of Education",
+    "ceiling_value": "9913020",
+    "value": "9498198.05"
   },
   {
     "update_date": "2/12/2025",
@@ -1556,6 +1592,12 @@
   {
     "update_date": "2/18/2025",
     "agency": "Department Of Education",
+    "ceiling_value": "30000000",
+    "value": "28913738.09"
+  },
+  {
+    "update_date": "2/18/2025",
+    "agency": "Department Of Education",
     "ceiling_value": "5749996",
     "value": "5571247.18"
   },
@@ -1761,6 +1803,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "22300",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "250000000",
     "value": "0"
   },
   {
@@ -2000,6 +2048,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "17325101",
+    "value": "13296128"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "16218984",
     "value": "21108.06"
   },
@@ -2224,6 +2278,12 @@
     "agency": "Department of State",
     "ceiling_value": "8814297",
     "value": "2055437.8"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "8600000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -2462,6 +2522,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "6000000",
+    "value": "953318.61"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "5836318",
     "value": "5836318"
   },
@@ -2696,6 +2762,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "4438645",
+    "value": "2550632.62"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "4324707",
     "value": "552114.19"
   },
@@ -2926,6 +2998,12 @@
     "agency": "Department of State",
     "ceiling_value": "3727605",
     "value": "232133.67"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "3715913",
+    "value": "1061573.5"
   },
   {
     "update_date": "2/26/2025",
@@ -3165,6 +3243,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "3000000",
+    "value": "1867421.46"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "3000000",
     "value": "2880785"
   },
   {
@@ -3388,6 +3472,12 @@
     "agency": "Department of State",
     "ceiling_value": "2937678",
     "value": "1337967.45"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "2935000",
+    "value": "2142276.85"
   },
   {
     "update_date": "2/26/2025",
@@ -3627,6 +3717,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "2500000",
+    "value": "2355704.38"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "2500000",
     "value": "209287"
   },
   {
@@ -3856,6 +3952,12 @@
     "agency": "Department of State",
     "ceiling_value": "2276160",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "3000000",
+    "value": "588460.56"
   },
   {
     "update_date": "2/26/2025",
@@ -4094,6 +4196,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "2962808",
+    "value": "1565289.03"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "2000000",
     "value": "735569"
   },
@@ -4318,6 +4426,12 @@
     "agency": "Department of State",
     "ceiling_value": "1987206",
     "value": "1987206"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1986110",
+    "value": "844242"
   },
   {
     "update_date": "2/26/2025",
@@ -4556,6 +4670,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "1854957",
+    "value": "1554957"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "1854449",
     "value": "452117.87"
   },
@@ -4786,6 +4906,12 @@
     "agency": "Department of State",
     "ceiling_value": "1680864",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1663062.57",
+    "value": "1663062.57"
   },
   {
     "update_date": "2/26/2025",
@@ -5025,6 +5151,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "1500000",
+    "value": "342534.96"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1500000",
     "value": "0"
   },
   {
@@ -5259,6 +5391,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "1480749",
+    "value": "524309"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1480749",
     "value": "796749"
   },
   {
@@ -5488,6 +5626,12 @@
     "agency": "Department of State",
     "ceiling_value": "1388888",
     "value": "540969.53"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1382965",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -5727,6 +5871,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "1250000",
+    "value": "449147.38"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1250000",
     "value": "900000"
   },
   {
@@ -5956,6 +6106,12 @@
     "agency": "Department of State",
     "ceiling_value": "1135355",
     "value": "471225.75"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1130000",
+    "value": "457986"
   },
   {
     "update_date": "2/26/2025",
@@ -6441,6 +6597,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "1000000",
+    "value": "32888.86"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1000000",
     "value": "1000000"
   },
   {
@@ -6664,6 +6826,12 @@
     "agency": "Department of State",
     "ceiling_value": "987654",
     "value": "368140.27"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "1234567",
+    "value": "788883.88"
   },
   {
     "update_date": "2/26/2025",
@@ -6903,6 +7071,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "939709",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "934200",
     "value": "0"
   },
   {
@@ -7148,6 +7322,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "824083",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "820000",
     "value": "0"
   },
@@ -7388,6 +7568,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "754951.1",
+    "value": "540144.56"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "754480",
     "value": "0"
   },
@@ -7618,6 +7804,12 @@
     "agency": "Department of State",
     "ceiling_value": "740740",
     "value": "368390.63"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "740740",
+    "value": "48566.91"
   },
   {
     "update_date": "2/26/2025",
@@ -7862,6 +8054,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "650000",
+    "value": "603000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "649993.7",
     "value": "381095.34"
   },
@@ -8097,6 +8295,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "574562",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "573783",
     "value": "0"
   },
   {
@@ -8343,6 +8547,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "500000",
+    "value": "188345"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "500000",
     "value": "128445.9"
   },
   {
@@ -8572,6 +8782,12 @@
     "agency": "Department of State",
     "ceiling_value": "499680",
     "value": "245680"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "499663.91",
+    "value": "267061.34"
   },
   {
     "update_date": "2/26/2025",
@@ -8816,6 +9032,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "459259",
+    "value": "273703"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "458365",
     "value": "0"
   },
@@ -9056,6 +9278,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "400175",
+    "value": "400175"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "400000",
     "value": "40000"
   },
@@ -9292,6 +9520,12 @@
     "agency": "Department of State",
     "ceiling_value": "353880",
     "value": "353880"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "25000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -9537,6 +9771,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "300000",
+    "value": "210000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "300000",
     "value": "300000"
   },
   {
@@ -9766,6 +10006,12 @@
     "agency": "Department of State",
     "ceiling_value": "276325",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "276038",
+    "value": "24525.29"
   },
   {
     "update_date": "2/26/2025",
@@ -10011,6 +10257,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "250000",
+    "value": "225000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "250000",
     "value": "125000"
   },
   {
@@ -10250,6 +10502,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "244182",
+    "value": "13781.64"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "243066",
     "value": "243066"
   },
@@ -10480,6 +10738,12 @@
     "agency": "Department of State",
     "ceiling_value": "206080",
     "value": "164034"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "205908",
+    "value": "205908"
   },
   {
     "update_date": "2/26/2025",
@@ -10724,6 +10988,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "1000000",
+    "value": "557120.29"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "199994",
     "value": "111873.39"
   },
@@ -10954,6 +11224,12 @@
     "agency": "Department of State",
     "ceiling_value": "172192.2",
     "value": "105631.17"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "171070",
+    "value": "23361.33"
   },
   {
     "update_date": "2/26/2025",
@@ -11192,6 +11468,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "814000",
+    "value": "814000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "150000",
     "value": "33966.04"
   },
@@ -11422,6 +11704,12 @@
     "agency": "Department of State",
     "ceiling_value": "135000",
     "value": "95000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "134508.25",
+    "value": "134508.25"
   },
   {
     "update_date": "2/26/2025",
@@ -11662,6 +11950,12 @@
     "agency": "Department of State",
     "ceiling_value": "120250.5",
     "value": "22908.05"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "120000",
+    "value": "120000"
   },
   {
     "update_date": "2/26/2025",
@@ -11907,6 +12201,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "100000",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "100000",
     "value": "40000"
   },
   {
@@ -12142,6 +12442,12 @@
     "agency": "Department of State",
     "ceiling_value": "99964.23",
     "value": "18360.3"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "99934",
+    "value": "9992.72"
   },
   {
     "update_date": "2/26/2025",
@@ -12388,6 +12694,12 @@
     "agency": "Department of State",
     "ceiling_value": "90000",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "90000",
+    "value": "90000"
   },
   {
     "update_date": "2/26/2025",
@@ -12885,6 +13197,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "75000",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "75000",
     "value": "75000"
   },
   {
@@ -13120,6 +13438,12 @@
     "agency": "Department of State",
     "ceiling_value": "67700",
     "value": "22700"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "67183",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -13370,6 +13694,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "60300",
+    "value": "60300"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "60000",
     "value": "60000"
   },
@@ -13606,6 +13936,12 @@
     "agency": "Department of State",
     "ceiling_value": "54862.29",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "54700",
+    "value": "27000"
   },
   {
     "update_date": "2/26/2025",
@@ -13857,6 +14193,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "50000",
+    "value": "20000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "50000",
     "value": "25000"
   },
   {
@@ -14102,6 +14444,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "49740",
+    "value": "9948"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "49710",
     "value": "20000"
   },
@@ -14342,6 +14690,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "46110",
+    "value": "27666"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "46068",
     "value": "30103"
   },
@@ -14578,6 +14932,12 @@
     "agency": "Department of State",
     "ceiling_value": "45413",
     "value": "31797"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "45312",
+    "value": "22656"
   },
   {
     "update_date": "2/26/2025",
@@ -14828,6 +15188,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "42910",
+    "value": "42910"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "42867",
     "value": "21433"
   },
@@ -15064,6 +15430,12 @@
     "agency": "Department of State",
     "ceiling_value": "40000",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "40000",
+    "value": "20000"
   },
   {
     "update_date": "2/26/2025",
@@ -15314,6 +15686,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "39905",
+    "value": "39905"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "39900",
     "value": "39900"
   },
@@ -15550,6 +15928,12 @@
     "agency": "Department of State",
     "ceiling_value": "36366",
     "value": "3636"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "36242",
+    "value": "21745"
   },
   {
     "update_date": "2/26/2025",
@@ -15800,6 +16184,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "34822",
+    "value": "34822"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "34800",
     "value": "7000"
   },
@@ -16046,6 +16436,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "32257",
+    "value": "32257"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "32190",
     "value": "32190"
   },
@@ -16282,6 +16678,12 @@
     "agency": "Department of State",
     "ceiling_value": "30000",
     "value": "6000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "14900",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -16532,6 +16934,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "29800",
+    "value": "29800"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "29788",
     "value": "19348"
   },
@@ -16778,6 +17186,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "27000",
+    "value": "13500"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "151560",
     "value": "0"
   },
@@ -17019,6 +17433,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "26933",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "25000",
     "value": "0"
   },
   {
@@ -17271,6 +17691,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "25000",
+    "value": "25000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "25000",
     "value": "5000"
   },
   {
@@ -17511,6 +17937,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "24960",
+    "value": "19960"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "24960",
     "value": "2497"
   },
   {
@@ -17746,6 +18178,12 @@
     "agency": "Department of State",
     "ceiling_value": "24785.6",
     "value": "12392.8"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "24785",
+    "value": "14871"
   },
   {
     "update_date": "2/26/2025",
@@ -17997,6 +18435,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "24000",
+    "value": "24000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "24000",
     "value": "0"
   },
   {
@@ -18242,6 +18686,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "23572",
+    "value": "11786"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "23549",
     "value": "0"
   },
@@ -18466,6 +18916,12 @@
     "agency": "Department of State",
     "ceiling_value": "22000",
     "value": "11000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "22000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -18735,6 +19191,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "20000",
+    "value": "4000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "20000",
     "value": "20000"
   },
   {
@@ -18970,6 +19432,12 @@
     "agency": "Department of State",
     "ceiling_value": "20000",
     "value": "20000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "20000",
+    "value": "4000"
   },
   {
     "update_date": "2/26/2025",
@@ -19221,6 +19689,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "19400",
+    "value": "19400"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "19400",
     "value": "3880"
   },
   {
@@ -19456,6 +19930,12 @@
     "agency": "Department of State",
     "ceiling_value": "17428",
     "value": "3517.6"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "17301.2",
+    "value": "17301.2"
   },
   {
     "update_date": "2/26/2025",
@@ -19718,6 +20198,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "15000",
+    "value": "15000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "125000",
     "value": "25000"
   },
@@ -19954,6 +20440,12 @@
     "agency": "Department of State",
     "ceiling_value": "15000",
     "value": "5971"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "15000",
+    "value": "15000"
   },
   {
     "update_date": "2/26/2025",
@@ -20450,6 +20942,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "13136",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "13025",
     "value": "6225"
   },
@@ -20702,6 +21200,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "11970",
+    "value": "5778.8"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "11962",
     "value": "2393"
   },
@@ -20942,6 +21446,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "10278",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "10250",
     "value": "0"
   },
@@ -21118,6 +21628,12 @@
     "agency": "Department of State",
     "ceiling_value": "10000",
     "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "10000",
+    "value": "6000"
   },
   {
     "update_date": "2/26/2025",
@@ -21477,6 +21993,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "10000",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "10000",
     "value": "3005"
   },
   {
@@ -21670,6 +22192,12 @@
     "agency": "Department of State",
     "ceiling_value": "10000",
     "value": "5000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "10000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -21933,6 +22461,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "9500",
+    "value": "3800"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "9500",
     "value": "0"
   },
   {
@@ -22178,6 +22712,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "8840",
+    "value": "4420"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "8830",
     "value": "2530"
   },
@@ -22408,6 +22948,12 @@
     "agency": "Department of State",
     "ceiling_value": "8000",
     "value": "4000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "8000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -22676,6 +23222,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "7200",
+    "value": "7200"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "7180",
     "value": "200"
   },
@@ -22918,6 +23470,12 @@
     "agency": "Department of State",
     "ceiling_value": "6700",
     "value": "2010"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "6640",
+    "value": "1660"
   },
   {
     "update_date": "2/26/2025",
@@ -23170,6 +23728,12 @@
     "agency": "Department of State",
     "ceiling_value": "6000",
     "value": "1200"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "6000",
+    "value": "2400"
   },
   {
     "update_date": "2/26/2025",
@@ -23433,6 +23997,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "5000",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "5000",
     "value": "1000"
   },
   {
@@ -23667,6 +24237,12 @@
     "update_date": "2/26/2025",
     "agency": "Department of State",
     "ceiling_value": "4700",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "4657",
     "value": "0"
   },
   {
@@ -23924,6 +24500,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "3091",
+    "value": "1236"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "3063",
     "value": "0"
   },
@@ -24172,6 +24754,12 @@
     "agency": "Department of State",
     "ceiling_value": "2000",
     "value": "2000"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
+    "ceiling_value": "2000",
+    "value": "0"
   },
   {
     "update_date": "2/26/2025",
@@ -24428,6 +25016,12 @@
   {
     "update_date": "2/26/2025",
     "agency": "Department of State",
+    "ceiling_value": "931",
+    "value": "0"
+  },
+  {
+    "update_date": "2/26/2025",
+    "agency": "Department of State",
     "ceiling_value": "830",
     "value": "0"
   },
@@ -24674,6 +25268,12 @@
   {
     "update_date": "2/27/2025",
     "agency": "Department of State",
+    "ceiling_value": "1100000",
+    "value": "1000000"
+  },
+  {
+    "update_date": "2/27/2025",
+    "agency": "Department of State",
     "ceiling_value": "855951",
     "value": "855951"
   },
@@ -24908,6 +25508,12 @@
   {
     "update_date": "2/27/2025",
     "agency": "Department of State",
+    "ceiling_value": "14907",
+    "value": "14907"
+  },
+  {
+    "update_date": "2/27/2025",
+    "agency": "Department of State",
     "ceiling_value": "14642",
     "value": "6749"
   },
@@ -25132,6 +25738,12 @@
     "agency": "USAID",
     "ceiling_value": "7500000",
     "value": "981208"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "13180808",
+    "value": "3680808"
   },
   {
     "update_date": "3/1/2025",
@@ -25402,6 +26014,12 @@
     "agency": "USAID",
     "ceiling_value": "14599485",
     "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "14000000",
+    "value": "4741670"
   },
   {
     "update_date": "3/1/2025",
@@ -25682,6 +26300,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "3121159",
+    "value": "921159"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "35941985",
     "value": "393466.19"
   },
@@ -25948,6 +26572,12 @@
     "agency": "USAID",
     "ceiling_value": "29997925",
     "value": "861510.11"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "16474565",
+    "value": "7439282"
   },
   {
     "update_date": "3/1/2025",
@@ -26230,6 +26860,12 @@
     "agency": "USAID",
     "ceiling_value": "205000000",
     "value": "138500000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "34795763",
+    "value": "10396217"
   },
   {
     "update_date": "3/1/2025",
@@ -26522,6 +27158,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "20000000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "200000",
     "value": "0"
   },
@@ -26794,6 +27436,12 @@
     "agency": "USAID",
     "ceiling_value": "943000",
     "value": "193000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "5250000",
+    "value": "1400000"
   },
   {
     "update_date": "3/1/2025",
@@ -27086,6 +27734,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "8000000",
+    "value": "4994958"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "30000000",
     "value": "18932000"
   },
@@ -27374,6 +28028,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "1441385",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "6990932",
     "value": "3240932"
   },
@@ -27646,6 +28306,12 @@
     "agency": "USAID",
     "ceiling_value": "9494979",
     "value": "176449"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "2250000",
+    "value": "0"
   },
   {
     "update_date": "3/1/2025",
@@ -27927,6 +28593,12 @@
     "update_date": "3/1/2025",
     "agency": "USAID",
     "ceiling_value": "1531310",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "749868",
     "value": "0"
   },
   {
@@ -28214,6 +28886,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "22416258",
+    "value": "2887038.25"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "34860664",
     "value": "5273688.08"
   },
@@ -28486,6 +29164,12 @@
     "agency": "USAID",
     "ceiling_value": "1611040",
     "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "35000000",
+    "value": "16052992"
   },
   {
     "update_date": "3/1/2025",
@@ -28768,6 +29452,12 @@
     "agency": "USAID",
     "ceiling_value": "16200000",
     "value": "11799724"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "14500000",
+    "value": "0"
   },
   {
     "update_date": "3/1/2025",
@@ -29336,6 +30026,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "1500000",
+    "value": "800000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "1000000",
     "value": "500000"
   },
@@ -29608,6 +30304,12 @@
     "agency": "USAID",
     "ceiling_value": "20000000",
     "value": "5766819"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "12500000",
+    "value": "2663000"
   },
   {
     "update_date": "3/1/2025",
@@ -29888,6 +30590,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "23000000",
+    "value": "5487032"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "60000000",
     "value": "18447853.16"
   },
@@ -30160,6 +30868,12 @@
     "agency": "USAID",
     "ceiling_value": "10000000",
     "value": "3940294.06"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "30000000",
+    "value": "19800000"
   },
   {
     "update_date": "3/1/2025",
@@ -30446,6 +31160,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "4000000",
+    "value": "1800000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "15000000",
     "value": "5291118.2"
   },
@@ -30718,6 +31438,12 @@
     "agency": "USAID",
     "ceiling_value": "3000000",
     "value": "563077.31"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "8800000",
+    "value": "1876434.47"
   },
   {
     "update_date": "3/1/2025",
@@ -31004,6 +31730,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "18000000",
+    "value": "2569704"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "5000000",
     "value": "3935619.82"
   },
@@ -31286,6 +32018,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "2000000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "4911191",
     "value": "1612164"
   },
@@ -31562,6 +32300,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "3000000",
+    "value": "1000000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "500000",
     "value": "0"
   },
@@ -31833,6 +32577,12 @@
     "update_date": "3/1/2025",
     "agency": "USAID",
     "ceiling_value": "2000000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "2700000",
     "value": "0"
   },
   {
@@ -32114,6 +32864,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "5500000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "2199858",
     "value": "100000"
   },
@@ -32386,6 +33142,12 @@
     "agency": "USAID",
     "ceiling_value": "12484541",
     "value": "1434537.47"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "4500000",
+    "value": "1000000"
   },
   {
     "update_date": "3/1/2025",
@@ -32666,6 +33428,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "17000000",
+    "value": "1550519.8"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "1349772",
     "value": "0"
   },
@@ -32938,6 +33706,12 @@
     "agency": "USAID",
     "ceiling_value": "1000000",
     "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "10000000",
+    "value": "6104000"
   },
   {
     "update_date": "3/1/2025",
@@ -33219,6 +33993,12 @@
     "update_date": "3/1/2025",
     "agency": "USAID",
     "ceiling_value": "3450000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "1199859",
     "value": "0"
   },
   {
@@ -33518,6 +34298,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "321508",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "700000",
     "value": "0"
   },
@@ -33802,6 +34588,12 @@
     "agency": "USAID",
     "ceiling_value": "15000000",
     "value": "9166668"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "93422312",
+    "value": "61814454"
   },
   {
     "update_date": "3/1/2025",
@@ -34100,6 +34892,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "2506685",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "2250000",
     "value": "0"
   },
@@ -34384,6 +35182,12 @@
     "agency": "USAID",
     "ceiling_value": "6690000",
     "value": "3345000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "8898135",
+    "value": "4451281"
   },
   {
     "update_date": "3/1/2025",
@@ -34676,6 +35480,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "269302",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "1200000",
     "value": "0"
   },
@@ -34960,6 +35770,12 @@
     "agency": "USAID",
     "ceiling_value": "500000",
     "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "300000",
+    "value": "148302"
   },
   {
     "update_date": "3/1/2025",
@@ -35258,6 +36074,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "1000000",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "5500000",
     "value": "0"
   },
@@ -35542,6 +36364,12 @@
     "agency": "USAID",
     "ceiling_value": "3300000",
     "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "30000000",
+    "value": "17012317"
   },
   {
     "update_date": "3/1/2025",
@@ -35835,6 +36663,12 @@
     "update_date": "3/1/2025",
     "agency": "USAID",
     "ceiling_value": "1219400",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "752410",
     "value": "0"
   },
   {
@@ -36140,6 +36974,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "421681",
+    "value": "0"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "1205000",
     "value": "0"
   },
@@ -36422,6 +37262,12 @@
   {
     "update_date": "3/1/2025",
     "agency": "USAID",
+    "ceiling_value": "500000000",
+    "value": "43750000"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
     "ceiling_value": "2163872",
     "value": "0"
   },
@@ -36700,6 +37546,12 @@
     "agency": "USAID",
     "ceiling_value": "26753799",
     "value": "3628620.11"
+  },
+  {
+    "update_date": "3/1/2025",
+    "agency": "USAID",
+    "ceiling_value": "29700000",
+    "value": "18818075"
   },
   {
     "update_date": "3/1/2025",

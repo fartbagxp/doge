@@ -13,6 +13,7 @@ update_date,agency,ceiling_value,value
 2/10/2025,Department Of Education,10261487,4245679
 2/10/2025,Department Of Education,17731785,4814408
 2/10/2025,Department Of Education,8652361,3009928
+2/10/2025,Department Of Education,9146065,2411784
 2/10/2025,Department Of Education,7220136,2140529
 2/10/2025,Department Of Education,5406889,2077527
 2/10/2025,Department Of Education,14797304,6374392
@@ -55,6 +56,7 @@ update_date,agency,ceiling_value,value
 2/11/2025,USAID,30000000,26100000
 2/11/2025,USAID,2399953,0
 2/11/2025,USAID,26490383,0
+2/11/2025,USAID,14950000,4980000
 2/11/2025,USAID,10000000,8337418
 2/11/2025,USAID,500000,0
 2/11/2025,USAID,14550000,2950000
@@ -100,6 +102,7 @@ update_date,agency,ceiling_value,value
 2/10/2025,USAID,62500000,27300000
 2/10/2025,USAID,45000000,24986000
 2/6/2025,USAID,7500000,3494361
+2/6/2025,USAID,49964668,18948168
 2/6/2025,USAID,199251,0
 2/6/2025,USAID,500000,0
 2/10/2025,USAID,4377394,0
@@ -146,6 +149,7 @@ update_date,agency,ceiling_value,value
 2/10/2025,USAID,21823000,1700193
 2/10/2025,USAID,40000000,6654571
 2/10/2025,USAID,90000000,13964718
+2/10/2025,USAID,55000000,9891193
 2/11/2025,USAID,14500000,0
 2/6/2025,USAID,318653764,52853764
 2/6/2025,USAID,25000000,16958088
@@ -185,6 +189,7 @@ update_date,agency,ceiling_value,value
 2/12/2025,Department Of Education,7878539,4467456.85
 2/12/2025,Department Of Education,4228801,3092662.6
 2/12/2025,Department Of Education,2375747,2067287.98
+2/12/2025,Department Of Education,3356160,3132044.75
 2/12/2025,Department Of Education,9719230,7466040.88
 2/12/2025,Department Of Education,1303909,1055316.09
 2/12/2025,Department Of Education,2294738,2006786.56
@@ -221,6 +226,7 @@ update_date,agency,ceiling_value,value
 2/12/2025,Department Of Education,8017306,7584035.22
 2/12/2025,Department Of Education,3380649,3380649
 2/12/2025,Department Of Education,8407872,8397522.1
+2/12/2025,Department Of Education,9913020,9498198.05
 2/12/2025,Department Of Education,3067134,3067134
 2/12/2025,Department Of Education,8510029,8143074.24
 2/13/2025,Department Of Education,8218498,4486086.76
@@ -258,6 +264,7 @@ update_date,agency,ceiling_value,value
 2/18/2025,Department Of Education,9021560,8807553.17
 2/18/2025,Department Of Education,25198845,24983549.54
 2/18/2025,Department Of Education,22437090,22246286.43
+2/18/2025,Department Of Education,30000000,28913738.09
 2/18/2025,Department Of Education,5749996,5571247.18
 2/18/2025,Department Of Education,12253440,11814648.24
 2/18/2025,Department Of Education,6250000,6018538.17
@@ -293,6 +300,7 @@ update_date,agency,ceiling_value,value
 2/22/2025,Environmental Protection Agency,500000,500000
 2/22/2025,Environmental Protection Agency,500000,488649.6
 2/26/2025,Department of State,22300,0
+2/26/2025,Department of State,250000000,0
 2/26/2025,Department of State,96325832,92221735
 2/26/2025,Department of State,63042000,0
 2/26/2025,Department of State,59250000,0
@@ -332,6 +340,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,17981265,5848408
 2/26/2025,Department of State,17915753,1544153
 2/26/2025,Department of State,17500000,0
+2/26/2025,Department of State,17325101,13296128
 2/26/2025,Department of State,16218984,21108.06
 2/26/2025,Department of State,16111638,14300959.26
 2/26/2025,Department of State,16045000,14198603.69
@@ -370,6 +379,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,199999,0
 2/26/2025,Department of State,8887911,1607911
 2/26/2025,Department of State,8814297,2055437.8
+2/26/2025,Department of State,8600000,0
 2/26/2025,Department of State,8540733.23,806233.23
 2/26/2025,Department of State,8520000,575183
 2/26/2025,Department of State,8500000,5690897.06
@@ -409,6 +419,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,6050000,0
 2/26/2025,Department of State,6045060,2750008.75
 2/26/2025,Department of State,6041748,5997748
+2/26/2025,Department of State,6000000,953318.61
 2/26/2025,Department of State,5836318,5836318
 2/26/2025,Department of State,5800000,1270961.08
 2/26/2025,Department of State,5800000,0
@@ -448,6 +459,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,19301992,6903606.45
 2/26/2025,Department of State,4500000,153554.44
 2/26/2025,Department of State,4500000,4500000
+2/26/2025,Department of State,4438645,2550632.62
 2/26/2025,Department of State,4324707,552114.19
 2/26/2025,Department of State,4317060,1546813.97
 2/26/2025,Department of State,4265431,387654
@@ -487,6 +499,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,3750000,3633121
 2/26/2025,Department of State,3737641,1468233
 2/26/2025,Department of State,3727605,232133.67
+2/26/2025,Department of State,3715913,1061573.5
 2/26/2025,Department of State,3699375,559200
 2/26/2025,Department of State,3645029,0
 2/26/2025,Department of State,3640607,258824.67
@@ -526,6 +539,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,6065980,827878.33
 2/26/2025,Department of State,3000000,2271060.56
 2/26/2025,Department of State,3000000,1509218.3
+2/26/2025,Department of State,3000000,1867421.46
 2/26/2025,Department of State,3000000,2880785
 2/26/2025,Department of State,6065980,2105089.66
 2/26/2025,Department of State,3000000,3000000
@@ -564,6 +578,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,2950000,1242091.01
 2/26/2025,Department of State,2950000,1064246.71
 2/26/2025,Department of State,2937678,1337967.45
+2/26/2025,Department of State,2935000,2142276.85
 2/26/2025,Department of State,2919988.3,2919988.3
 2/26/2025,Department of State,2912844,455404.55
 2/26/2025,Department of State,2910830,2250247.42
@@ -603,6 +618,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,2500000,1885838.3
 2/26/2025,Department of State,2500000,2194611.44
 2/26/2025,Department of State,2500000,1945672.71
+2/26/2025,Department of State,2500000,2355704.38
 2/26/2025,Department of State,2500000,209287
 2/26/2025,Department of State,2500000,493039.65
 2/26/2025,Department of State,2500000,2389644.8
@@ -642,6 +658,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,2281481,936180.17
 2/26/2025,Department of State,2276628,0
 2/26/2025,Department of State,2276160,0
+2/26/2025,Department of State,3000000,588460.56
 2/26/2025,Department of State,2250000,1661896.98
 2/26/2025,Department of State,2250000,780493.78
 2/26/2025,Department of State,2250000,1747234.8
@@ -681,6 +698,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,2020030,1708713.83
 2/26/2025,Department of State,2002343,2002343
 2/26/2025,Department of State,2000000,984083.87
+2/26/2025,Department of State,2962808,1565289.03
 2/26/2025,Department of State,2000000,735569
 2/26/2025,Department of State,2000000,578199.11
 2/26/2025,Department of State,2000000,1273321.28
@@ -719,6 +737,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1989694.32,509834.15
 2/26/2025,Department of State,2900000,2451235.42
 2/26/2025,Department of State,1987206,1987206
+2/26/2025,Department of State,1986110,844242
 2/26/2025,Department of State,1983288,0
 2/26/2025,Department of State,1975308,903308
 2/26/2025,Department of State,1975305,820778
@@ -758,6 +777,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1875661,1124161
 2/26/2025,Department of State,1857862,889251
 2/26/2025,Department of State,1856145,1656410.02
+2/26/2025,Department of State,1854957,1554957
 2/26/2025,Department of State,1854449,452117.87
 2/26/2025,Department of State,1854000,1497215
 2/26/2025,Department of State,1852301,0
@@ -797,6 +817,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1688438,0
 2/26/2025,Department of State,1685000,1209085.82
 2/26/2025,Department of State,1680864,0
+2/26/2025,Department of State,1663062.57,1663062.57
 2/26/2025,Department of State,1652027,0
 2/26/2025,Department of State,1650000,0
 2/26/2025,Department of State,1642510,1642510
@@ -836,6 +857,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1500000,1267792
 2/26/2025,Department of State,2349967,568306.95
 2/26/2025,Department of State,1500000,1263382
+2/26/2025,Department of State,1500000,342534.96
 2/26/2025,Department of State,1500000,0
 2/26/2025,Department of State,1500000,1225262.01
 2/26/2025,Department of State,1500000,1498380.91
@@ -875,6 +897,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1481250,888750
 2/26/2025,Department of State,1480993,953880.55
 2/26/2025,Department of State,1480785,0
+2/26/2025,Department of State,1480749,524309
 2/26/2025,Department of State,1480749,796749
 2/26/2025,Department of State,1480740,214820.13
 2/26/2025,Department of State,1480625,638700
@@ -914,6 +937,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1400000,0
 2/26/2025,Department of State,1390000,141850
 2/26/2025,Department of State,1388888,540969.53
+2/26/2025,Department of State,1382965,0
 2/26/2025,Department of State,1379650,0
 2/26/2025,Department of State,1375000,0
 2/26/2025,Department of State,1364778,200000
@@ -953,6 +977,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1250000,1250000
 2/26/2025,Department of State,1250000,0
 2/26/2025,Department of State,1787500,915189.61
+2/26/2025,Department of State,1250000,449147.38
 2/26/2025,Department of State,1250000,900000
 2/26/2025,Department of State,1250000,1098979.27
 2/26/2025,Department of State,1250000,1250000
@@ -992,6 +1017,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1145000,546700
 2/26/2025,Department of State,1135740,441740
 2/26/2025,Department of State,1135355,471225.75
+2/26/2025,Department of State,1130000,457986
 2/26/2025,Department of State,1128133,0
 2/26/2025,Department of State,1126498,1126498
 2/26/2025,Department of State,1125000,1125000
@@ -1072,6 +1098,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1450000,481000
 2/26/2025,Department of State,1000000,550987.73
 2/26/2025,Department of State,1000000,876946.96
+2/26/2025,Department of State,1000000,32888.86
 2/26/2025,Department of State,1000000,1000000
 2/26/2025,Department of State,1000000,456114.61
 2/26/2025,Department of State,1000000,1000000
@@ -1110,6 +1137,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,987654,415574.21
 2/26/2025,Department of State,987654,665154
 2/26/2025,Department of State,987654,368140.27
+2/26/2025,Department of State,1234567,788883.88
 2/26/2025,Department of State,987654,508654
 2/26/2025,Department of State,987654,252953.4
 2/26/2025,Department of State,987654,433059
@@ -1150,6 +1178,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,943111,0
 2/26/2025,Department of State,940741,104796.31
 2/26/2025,Department of State,939709,0
+2/26/2025,Department of State,934200,0
 2/26/2025,Department of State,932911,0
 2/26/2025,Department of State,932136,530358
 2/26/2025,Department of State,928395,602498.15
@@ -1190,6 +1219,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,843000,283000
 2/26/2025,Department of State,839272,0
 2/26/2025,Department of State,838677,838677
+2/26/2025,Department of State,824083,0
 2/26/2025,Department of State,820000,0
 2/26/2025,Department of State,816795,0
 2/26/2025,Department of State,815028,125028
@@ -1230,6 +1260,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,761665,0
 2/26/2025,Department of State,759067,0
 2/26/2025,Department of State,756000,168354.34
+2/26/2025,Department of State,754951.1,540144.56
 2/26/2025,Department of State,754480,0
 2/26/2025,Department of State,8000000,8000000
 2/26/2025,Department of State,750000,166218.89
@@ -1269,6 +1300,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,740740,442340
 2/26/2025,Department of State,740740,336051
 2/26/2025,Department of State,740740,368390.63
+2/26/2025,Department of State,740740,48566.91
 2/26/2025,Department of State,740644,381347.77
 2/26/2025,Department of State,740335,84331
 2/26/2025,Department of State,740009,540209
@@ -1309,6 +1341,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,657665,0
 2/26/2025,Department of State,652675,638788
 2/26/2025,Department of State,651477,0
+2/26/2025,Department of State,650000,603000
 2/26/2025,Department of State,649993.7,381095.34
 2/26/2025,Department of State,649216,0
 2/26/2025,Department of State,648342,513141
@@ -1349,6 +1382,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,575160,230063.94
 2/26/2025,Department of State,574564,0
 2/26/2025,Department of State,574562,0
+2/26/2025,Department of State,573783,0
 2/26/2025,Department of State,1000000,346557.79
 2/26/2025,Department of State,565915,565915
 2/26/2025,Department of State,562731.93,562731.93
@@ -1389,6 +1423,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,500000,128671.69
 2/26/2025,Department of State,500000,500000
 2/26/2025,Department of State,500000,488551.98
+2/26/2025,Department of State,500000,188345
 2/26/2025,Department of State,500000,128445.9
 2/26/2025,Department of State,500000,500000
 2/26/2025,Department of State,500000,500000
@@ -1428,6 +1463,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,499765,499765
 2/26/2025,Department of State,499713,167441
 2/26/2025,Department of State,499680,245680
+2/26/2025,Department of State,499663.91,267061.34
 2/26/2025,Department of State,499651,397869.61
 2/26/2025,Department of State,499396,146155
 2/26/2025,Department of State,499390,343167
@@ -1468,6 +1504,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,463450,463450
 2/26/2025,Department of State,463300,463300
 2/26/2025,Department of State,459982,433458
+2/26/2025,Department of State,459259,273703
 2/26/2025,Department of State,458365,0
 2/26/2025,Department of State,450682.06,383162.06
 2/26/2025,Department of State,450000,367623.66
@@ -1508,6 +1545,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,408610,408610
 2/26/2025,Department of State,408451,0
 2/26/2025,Department of State,405000,86242
+2/26/2025,Department of State,400175,400175
 2/26/2025,Department of State,400000,40000
 2/26/2025,Department of State,400000,155063.52
 2/26/2025,Department of State,400000,200000
@@ -1548,6 +1586,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,359926,319318.35
 2/26/2025,Department of State,358840,0
 2/26/2025,Department of State,353880,353880
+2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,352494.16,352494.16
 2/26/2025,Department of State,351592.74,231592.74
 2/26/2025,Department of State,350241,44262
@@ -1588,6 +1627,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,301278,301278
 2/26/2025,Department of State,300704,246704
 2/26/2025,Department of State,300003.42,150000
+2/26/2025,Department of State,300000,210000
 2/26/2025,Department of State,300000,300000
 2/26/2025,Department of State,300000,300000
 2/26/2025,Department of State,300000,300000
@@ -1627,6 +1667,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,279725,0
 2/26/2025,Department of State,278918,278918
 2/26/2025,Department of State,276325,0
+2/26/2025,Department of State,276038,24525.29
 2/26/2025,Department of State,275000,275000
 2/26/2025,Department of State,275000,275000
 2/26/2025,Department of State,272321,0
@@ -1667,6 +1708,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,250000,94251
 2/26/2025,Department of State,250000,250000
 2/26/2025,Department of State,250000,50000
+2/26/2025,Department of State,250000,225000
 2/26/2025,Department of State,250000,125000
 2/26/2025,Department of State,250000,0
 2/26/2025,Department of State,250000,84474.9
@@ -1707,6 +1749,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,246030,224284.57
 2/26/2025,Department of State,245000,245000
 2/26/2025,Department of State,244798,244798
+2/26/2025,Department of State,244182,13781.64
 2/26/2025,Department of State,243066,243066
 2/26/2025,Department of State,242437,242437
 2/26/2025,Department of State,241542,116436.29
@@ -1746,6 +1789,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,209650,0
 2/26/2025,Department of State,208760,124340
 2/26/2025,Department of State,206080,164034
+2/26/2025,Department of State,205908,205908
 2/26/2025,Department of State,205000,0
 2/26/2025,Department of State,205000,123724.31
 2/26/2025,Department of State,204487,204487
@@ -1786,6 +1830,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,200000,121664.65
 2/26/2025,Department of State,200000,200000
 2/26/2025,Department of State,199999,199999
+2/26/2025,Department of State,1000000,557120.29
 2/26/2025,Department of State,199994,111873.39
 2/26/2025,Department of State,199848.74,38270.89
 2/26/2025,Department of State,199826,199826
@@ -1825,6 +1870,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,173004,57256
 2/26/2025,Department of State,172944,139943.04
 2/26/2025,Department of State,172192.2,105631.17
+2/26/2025,Department of State,171070,23361.33
 2/26/2025,Department of State,169961,84706.53
 2/26/2025,Department of State,169961,169961
 2/26/2025,Department of State,169100,33820
@@ -1864,6 +1910,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,150000,0
 2/26/2025,Department of State,150000,75000
+2/26/2025,Department of State,814000,814000
 2/26/2025,Department of State,150000,33966.04
 2/26/2025,Department of State,150000,135000
 2/26/2025,Department of State,150000,115000
@@ -1903,6 +1950,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,138400.23,138400.23
 2/26/2025,Department of State,136296,136296
 2/26/2025,Department of State,135000,95000
+2/26/2025,Department of State,134508.25,134508.25
 2/26/2025,Department of State,134340,67170
 2/26/2025,Department of State,133576,133576
 2/26/2025,Department of State,133540,133540
@@ -1943,6 +1991,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,121114,61114
 2/26/2025,Department of State,120716.78,0
 2/26/2025,Department of State,120250.5,22908.05
+2/26/2025,Department of State,120000,120000
 2/26/2025,Department of State,119999,59999
 2/26/2025,Department of State,119460,69460
 2/26/2025,Department of State,118871.39,118871.39
@@ -1983,6 +2032,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,100000,78658.89
 2/26/2025,Department of State,100000,100000
 2/26/2025,Department of State,100000,66611.34
+2/26/2025,Department of State,100000,0
 2/26/2025,Department of State,100000,40000
 2/26/2025,Department of State,100000,10000
 2/26/2025,Department of State,100000,100000
@@ -2023,6 +2073,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,99978.9,59988.9
 2/26/2025,Department of State,99964.31,99964.31
 2/26/2025,Department of State,99964.23,18360.3
+2/26/2025,Department of State,99934,9992.72
 2/26/2025,Department of State,99924,19984.8
 2/26/2025,Department of State,99788,99788
 2/26/2025,Department of State,99787.41,19787.41
@@ -2064,6 +2115,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,90000,0
 2/26/2025,Department of State,90000,0
 2/26/2025,Department of State,90000,0
+2/26/2025,Department of State,90000,90000
 2/26/2025,Department of State,90000,90000
 2/26/2025,Department of State,90000,90000
 2/26/2025,Department of State,89895,60100
@@ -2146,6 +2198,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,75000,55210.8
 2/26/2025,Department of State,75000,75000
 2/26/2025,Department of State,75000,0
+2/26/2025,Department of State,75000,0
 2/26/2025,Department of State,75000,75000
 2/26/2025,Department of State,75000,75000
 2/26/2025,Department of State,74999.58,63749.58
@@ -2186,6 +2239,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,68937.54,0
 2/26/2025,Department of State,68000,0
 2/26/2025,Department of State,67700,22700
+2/26/2025,Department of State,67183,0
 2/26/2025,Department of State,67058.2,67058.2
 2/26/2025,Department of State,67000,57000
 2/26/2025,Department of State,66926,46926
@@ -2227,6 +2281,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,61000,30000
 2/26/2025,Department of State,60716,0
 2/26/2025,Department of State,60314.52,20104.84
+2/26/2025,Department of State,60300,60300
 2/26/2025,Department of State,60000,60000
 2/26/2025,Department of State,60000,30000
 2/26/2025,Department of State,60000,0
@@ -2267,6 +2322,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,54965.13,32965.13
 2/26/2025,Department of State,54950,49950
 2/26/2025,Department of State,54862.29,0
+2/26/2025,Department of State,54700,27000
 2/26/2025,Department of State,54560,43560
 2/26/2025,Department of State,54505,0
 2/26/2025,Department of State,54290,54290
@@ -2308,6 +2364,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,50000,10000
 2/26/2025,Department of State,50000,10000
 2/26/2025,Department of State,50000,50000
+2/26/2025,Department of State,50000,20000
 2/26/2025,Department of State,50000,25000
 2/26/2025,Department of State,50000,25000
 2/26/2025,Department of State,50000,0
@@ -2349,6 +2406,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,49923.9,0
 2/26/2025,Department of State,49850,20000
 2/26/2025,Department of State,49797,49797
+2/26/2025,Department of State,49740,9948
 2/26/2025,Department of State,49710,20000
 2/26/2025,Department of State,49600,0
 2/26/2025,Department of State,49575,0
@@ -2389,6 +2447,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,46478.72,3410.43
 2/26/2025,Department of State,46200,9240
 2/26/2025,Department of State,46200,18480
+2/26/2025,Department of State,46110,27666
 2/26/2025,Department of State,46068,30103
 2/26/2025,Department of State,46012,23006
 2/26/2025,Department of State,46012,23006
@@ -2429,6 +2488,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,45530,11500
 2/26/2025,Department of State,45437.93,45437.93
 2/26/2025,Department of State,45413,31797
+2/26/2025,Department of State,45312,22656
 2/26/2025,Department of State,45120,9024
 2/26/2025,Department of State,45024,0
 2/26/2025,Department of State,45000,19300
@@ -2470,6 +2530,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,43226,13000
 2/26/2025,Department of State,43000,2316
 2/26/2025,Department of State,42974,32974
+2/26/2025,Department of State,42910,42910
 2/26/2025,Department of State,42867,21433
 2/26/2025,Department of State,42769,0
 2/26/2025,Department of State,42735,20000
@@ -2510,6 +2571,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,40000,0
 2/26/2025,Department of State,40000,0
 2/26/2025,Department of State,40000,0
+2/26/2025,Department of State,40000,20000
 2/26/2025,Department of State,40000,40000
 2/26/2025,Department of State,40000,40000
 2/26/2025,Department of State,58298,28298
@@ -2551,6 +2613,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,39945,7989
 2/26/2025,Department of State,39939,7987.8
 2/26/2025,Department of State,39920,39920
+2/26/2025,Department of State,39905,39905
 2/26/2025,Department of State,39900,39900
 2/26/2025,Department of State,39866,19933
 2/26/2025,Department of State,39840,39840
@@ -2591,6 +2654,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,36376,0
 2/26/2025,Department of State,36376,0
 2/26/2025,Department of State,36366,3636
+2/26/2025,Department of State,36242,21745
 2/26/2025,Department of State,36000,6000
 2/26/2025,Department of State,41443,27867
 2/26/2025,Department of State,36000,20800
@@ -2632,6 +2696,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,34895,0
 2/26/2025,Department of State,34852,34852
 2/26/2025,Department of State,34840,15930
+2/26/2025,Department of State,34822,34822
 2/26/2025,Department of State,34800,7000
 2/26/2025,Department of State,34703,34703
 2/26/2025,Department of State,34643,20785.8
@@ -2673,6 +2738,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,32460,16230
 2/26/2025,Department of State,32385,32385
 2/26/2025,Department of State,32375,32375
+2/26/2025,Department of State,32257,32257
 2/26/2025,Department of State,32190,32190
 2/26/2025,Department of State,32100,6420
 2/26/2025,Department of State,32060,32060
@@ -2713,6 +2779,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,30000,15000
 2/26/2025,Department of State,30000,6000
 2/26/2025,Department of State,30000,6000
+2/26/2025,Department of State,14900,0
 2/26/2025,Department of State,776,0
 2/26/2025,Department of State,30000,15000
 2/26/2025,Department of State,30000,6000
@@ -2754,6 +2821,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,29910,29910
 2/26/2025,Department of State,29895,29895
 2/26/2025,Department of State,29875,0
+2/26/2025,Department of State,29800,29800
 2/26/2025,Department of State,29788,19348
 2/26/2025,Department of State,29721,29721
 2/26/2025,Department of State,2072295,0
@@ -2795,6 +2863,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,27167,13398
 2/26/2025,Department of State,27000,13500
 2/26/2025,Department of State,27000,0
+2/26/2025,Department of State,27000,13500
 2/26/2025,Department of State,151560,0
 2/26/2025,Department of State,26915,2692
 2/26/2025,Department of State,26900,10760
@@ -2836,6 +2905,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,26655,26655
 2/26/2025,Department of State,26390,13390
 2/26/2025,Department of State,26933,0
+2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,25000,5000
 2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,25000,0
@@ -2877,6 +2947,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,25000,0
 2/26/2025,Department of State,25000,0
+2/26/2025,Department of State,25000,25000
 2/26/2025,Department of State,25000,5000
 2/26/2025,Department of State,24999.9,12299.9
 2/26/2025,Department of State,24999.5,12499.75
@@ -2917,6 +2988,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,24970,4994
 2/26/2025,Department of State,24963.41,14978.41
 2/26/2025,Department of State,24960,16640
+2/26/2025,Department of State,24960,19960
 2/26/2025,Department of State,24960,2497
 2/26/2025,Department of State,24960,0
 2/26/2025,Department of State,24999.99,17499.99
@@ -2957,6 +3029,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,24820,8435
 2/26/2025,Department of State,24805,0
 2/26/2025,Department of State,24785.6,12392.8
+2/26/2025,Department of State,24785,14871
 2/26/2025,Department of State,24748,0
 2/26/2025,Department of State,24718.8,12358.8
 2/26/2025,Department of State,24700,4700
@@ -2998,6 +3071,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,24018,9607.2
 2/26/2025,Department of State,24000,24000
 2/26/2025,Department of State,24000,12000
+2/26/2025,Department of State,24000,24000
 2/26/2025,Department of State,24000,0
 2/26/2025,Department of State,24000,0
 2/26/2025,Department of State,24000,24000
@@ -3039,6 +3113,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,23800,11900
 2/26/2025,Department of State,23738.45,0
 2/26/2025,Department of State,23600,0
+2/26/2025,Department of State,23572,11786
 2/26/2025,Department of State,23549,0
 2/26/2025,Department of State,23510,23510
 2/26/2025,Department of State,24990,12503
@@ -3077,6 +3152,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,22056,3274
 2/26/2025,Department of State,22030,22030
 2/26/2025,Department of State,22000,11000
+2/26/2025,Department of State,22000,0
 2/26/2025,Department of State,22000,0
 2/26/2025,Department of State,22000,0
 2/26/2025,Department of State,22000,4400
@@ -3121,6 +3197,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,20043,13043
 2/26/2025,Department of State,20000,20000
 2/26/2025,Department of State,20000,4000
+2/26/2025,Department of State,20000,4000
 2/26/2025,Department of State,20000,20000
 2/26/2025,Department of State,20000,12000
 2/26/2025,Department of State,20000,4000
@@ -3161,6 +3238,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,20000,4000
 2/26/2025,Department of State,20000,20000
 2/26/2025,Department of State,20000,20000
+2/26/2025,Department of State,20000,4000
 2/26/2025,Department of State,20000,5000
 2/26/2025,Department of State,20000,20000
 2/26/2025,Department of State,20000,6000
@@ -3202,6 +3280,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,19500,0
 2/26/2025,Department of State,19500,8500
 2/26/2025,Department of State,19446,6744
+2/26/2025,Department of State,19400,19400
 2/26/2025,Department of State,19400,3880
 2/26/2025,Department of State,19283,0
 2/26/2025,Department of State,19245,9622
@@ -3242,6 +3321,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,17600,0
 2/26/2025,Department of State,17500,0
 2/26/2025,Department of State,17428,3517.6
+2/26/2025,Department of State,17301.2,17301.2
 2/26/2025,Department of State,17290,0
 2/26/2025,Department of State,17200,17200
 2/26/2025,Department of State,17125,0
@@ -3285,6 +3365,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,15000,3000
 2/26/2025,Department of State,15000,0
 2/26/2025,Department of State,15000,15000
+2/26/2025,Department of State,15000,15000
 2/26/2025,Department of State,125000,25000
 2/26/2025,Department of State,15000,15000
 2/26/2025,Department of State,15000,3000
@@ -3325,6 +3406,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,15000,15000
 2/26/2025,Department of State,15000,15000
 2/26/2025,Department of State,15000,5971
+2/26/2025,Department of State,15000,15000
 2/26/2025,Department of State,15000,9000
 2/26/2025,Department of State,15000,0
 2/26/2025,Department of State,15000,0
@@ -3407,6 +3489,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,13200,5280
 2/26/2025,Department of State,13180,13180
 2/26/2025,Department of State,13160,13160
+2/26/2025,Department of State,13136,0
 2/26/2025,Department of State,13025,6225
 2/26/2025,Department of State,13000,0
 2/26/2025,Department of State,13000,13000
@@ -3449,6 +3532,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,12000,9000
 2/26/2025,Department of State,12000,12000
 2/26/2025,Department of State,12000,12000
+2/26/2025,Department of State,11970,5778.8
 2/26/2025,Department of State,11962,2393
 2/26/2025,Department of State,11825,11825
 2/26/2025,Department of State,11808,2808
@@ -3489,6 +3573,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,10342,6205.2
 2/26/2025,Department of State,10333,5168
 2/26/2025,Department of State,10300,2060
+2/26/2025,Department of State,10278,0
 2/26/2025,Department of State,10250,0
 2/26/2025,Department of State,10187.51,0
 2/26/2025,Department of State,10150,0
@@ -3519,6 +3604,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,10000,10000
 2/26/2025,Department of State,10000,10000
 2/26/2025,Department of State,10000,0
+2/26/2025,Department of State,10000,6000
 2/26/2025,Department of State,10000,6000
 2/26/2025,Department of State,10000,6000
 2/26/2025,Department of State,10000,6000
@@ -3578,6 +3664,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,0
+2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,3005
 2/26/2025,Department of State,10000,10000
 2/26/2025,Department of State,10000,2000
@@ -3611,6 +3698,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,10000
 2/26/2025,Department of State,10000,5000
+2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,0
 2/26/2025,Department of State,10000,10000
@@ -3654,6 +3742,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,9531,4765.5
 2/26/2025,Department of State,9870,9870
 2/26/2025,Department of State,9520,2856
+2/26/2025,Department of State,9500,3800
 2/26/2025,Department of State,9500,0
 2/26/2025,Department of State,9500,0
 2/26/2025,Department of State,9459,0
@@ -3695,6 +3784,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,8859,4429.5
 2/26/2025,Department of State,8850,3540
 2/26/2025,Department of State,8840,3536
+2/26/2025,Department of State,8840,4420
 2/26/2025,Department of State,8830,2530
 2/26/2025,Department of State,8812.42,0
 2/26/2025,Department of State,8800,0
@@ -3734,6 +3824,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,8000,1600
 2/26/2025,Department of State,8150,8150
 2/26/2025,Department of State,8000,4000
+2/26/2025,Department of State,8000,0
 2/26/2025,Department of State,8000,0
 2/26/2025,Department of State,8000,0
 2/26/2025,Department of State,8000,0
@@ -3778,6 +3869,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,7260,3630
 2/26/2025,Department of State,7250,0
 2/26/2025,Department of State,7216,1443
+2/26/2025,Department of State,7200,7200
 2/26/2025,Department of State,7180,200
 2/26/2025,Department of State,7180,0
 2/26/2025,Department of State,7100,0
@@ -3819,6 +3911,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,6720,0
 2/26/2025,Department of State,6700,6700
 2/26/2025,Department of State,6700,2010
+2/26/2025,Department of State,6640,1660
 2/26/2025,Department of State,6633,0
 2/26/2025,Department of State,6600,1600
 2/26/2025,Department of State,6600,0
@@ -3861,6 +3954,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,6000,6000
 2/26/2025,Department of State,6000,3500
 2/26/2025,Department of State,6000,1200
+2/26/2025,Department of State,6000,2400
 2/26/2025,Department of State,6000,6000
 2/26/2025,Department of State,5995,5995
 2/26/2025,Department of State,5984,1284
@@ -3904,6 +3998,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,5000,5000
 2/26/2025,Department of State,5000,1000
 2/26/2025,Department of State,5000,0
+2/26/2025,Department of State,5000,0
 2/26/2025,Department of State,5000,1000
 2/26/2025,Department of State,5000,1000
 2/26/2025,Department of State,5000,1000
@@ -3944,6 +4039,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,4735,1183.75
 2/26/2025,Department of State,4713.14,0
 2/26/2025,Department of State,4700,0
+2/26/2025,Department of State,4657,0
 2/26/2025,Department of State,4580,1690
 2/26/2025,Department of State,4538,0
 2/26/2025,Department of State,4500,200
@@ -3986,6 +4082,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,3200,0
 2/26/2025,Department of State,3200,1600
 2/26/2025,Department of State,3180,180
+2/26/2025,Department of State,3091,1236
 2/26/2025,Department of State,3063,0
 2/26/2025,Department of State,3015,0
 2/26/2025,Department of State,3007,0
@@ -4028,6 +4125,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,2063,0
 2/26/2025,Department of State,2000,0
 2/26/2025,Department of State,2000,2000
+2/26/2025,Department of State,2000,0
 2/26/2025,Department of State,2000,2000
 2/26/2025,Department of State,2000,0
 2/26/2025,Department of State,2000,0
@@ -4070,6 +4168,7 @@ update_date,agency,ceiling_value,value
 2/26/2025,Department of State,1000,0
 2/26/2025,Department of State,1000,0
 2/26/2025,Department of State,974,0
+2/26/2025,Department of State,931,0
 2/26/2025,Department of State,830,0
 2/26/2025,Department of State,720,720
 2/26/2025,Department of State,696,0
@@ -4111,6 +4210,7 @@ update_date,agency,ceiling_value,value
 2/27/2025,Department of State,1000000,1000000
 2/27/2025,Department of State,991008,246810
 2/27/2025,Department of State,986679,918679
+2/27/2025,Department of State,1100000,1000000
 2/27/2025,Department of State,855951,855951
 2/27/2025,Department of State,838677,772525
 2/27/2025,Department of State,800000,800000
@@ -4150,6 +4250,7 @@ update_date,agency,ceiling_value,value
 2/27/2025,Department of State,1250000,1075000
 2/27/2025,Department of State,18773,7640
 2/27/2025,Department of State,15543,8031
+2/27/2025,Department of State,14907,14907
 2/27/2025,Department of State,14642,6749
 2/27/2025,Department of State,14130,14130
 2/27/2025,Department of State,12000,6000
@@ -4188,6 +4289,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,13000000,2500000
 3/1/2025,USAID,16000000,4015421
 3/1/2025,USAID,7500000,981208
+3/1/2025,USAID,13180808,3680808
 3/1/2025,USAID,15000000,4437975
 3/1/2025,USAID,23000000,12023165
 3/1/2025,USAID,24999996,15757995.97
@@ -4233,6 +4335,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,10000000,890037.83
 3/1/2025,USAID,15600000,0
 3/1/2025,USAID,14599485,0
+3/1/2025,USAID,14000000,4741670
 3/1/2025,USAID,11530000,768978.5
 3/1/2025,USAID,29500000,13806326.99
 3/1/2025,USAID,9800000,1709736
@@ -4279,6 +4382,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,2374231,724901
 3/1/2025,USAID,4792898,0
 3/1/2025,USAID,22994812,5782494
+3/1/2025,USAID,3121159,921159
 3/1/2025,USAID,35941985,393466.19
 3/1/2025,USAID,31000000,9479738
 3/1/2025,USAID,35000000,5987292.99
@@ -4324,6 +4428,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,39827527,31022027
 3/1/2025,USAID,18987608,7048347.53
 3/1/2025,USAID,29997925,861510.11
+3/1/2025,USAID,16474565,7439282
 3/1/2025,USAID,6037311,592166
 3/1/2025,USAID,20000000,8487328
 3/1/2025,USAID,4000000,0
@@ -4371,6 +4476,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,30000000,14918750
 3/1/2025,USAID,2499919,499919
 3/1/2025,USAID,205000000,138500000
+3/1/2025,USAID,34795763,10396217
 3/1/2025,USAID,1999627,0
 3/1/2025,USAID,200000000,142750000
 3/1/2025,USAID,9130627,5355846
@@ -4419,6 +4525,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,170000,0
 3/1/2025,USAID,1500000,575000
 3/1/2025,USAID,1500000,0
+3/1/2025,USAID,20000000,0
 3/1/2025,USAID,200000,0
 3/1/2025,USAID,88250000,47782956
 3/1/2025,USAID,4880223,0
@@ -4465,6 +4572,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,749743,0
 3/1/2025,USAID,1500000,0
 3/1/2025,USAID,943000,193000
+3/1/2025,USAID,5250000,1400000
 3/1/2025,USAID,1500000,0
 3/1/2025,USAID,1500000,0
 3/1/2025,USAID,195000,0
@@ -4513,6 +4621,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,170000,110000
 3/1/2025,USAID,75000000,72077871.19
 3/1/2025,USAID,8000000,5250000
+3/1/2025,USAID,8000000,4994958
 3/1/2025,USAID,30000000,18932000
 3/1/2025,USAID,2500000,2000000
 3/1/2025,USAID,25000000,22198760.8
@@ -4561,6 +4670,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,5000000,1400000
 3/1/2025,USAID,500000,0
 3/1/2025,USAID,500000,0
+3/1/2025,USAID,1441385,0
 3/1/2025,USAID,6990932,3240932
 3/1/2025,USAID,1500000,647968
 3/1/2025,USAID,3500000,0
@@ -4607,6 +4717,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,475000,0
 3/1/2025,USAID,13999911,380149
 3/1/2025,USAID,9494979,176449
+3/1/2025,USAID,2250000,0
 3/1/2025,USAID,17000000,3072964.85
 3/1/2025,USAID,10000000,2550000
 3/1/2025,USAID,14000000,7579263
@@ -4654,6 +4765,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,2041914,0
 3/1/2025,USAID,1420368,0
 3/1/2025,USAID,1531310,0
+3/1/2025,USAID,749868,0
 3/1/2025,USAID,999408,0
 3/1/2025,USAID,2049729,944729.11
 3/1/2025,USAID,1982367,824567.46
@@ -4701,6 +4813,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,47982442,17916737
 3/1/2025,USAID,23497661,0
 3/1/2025,USAID,5428363,0
+3/1/2025,USAID,22416258,2887038.25
 3/1/2025,USAID,34860664,5273688.08
 3/1/2025,USAID,1565304,0
 3/1/2025,USAID,49500000,26214213
@@ -4747,6 +4860,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,5000000,0
 3/1/2025,USAID,500000,0
 3/1/2025,USAID,1611040,0
+3/1/2025,USAID,35000000,16052992
 3/1/2025,USAID,2448067,0
 3/1/2025,USAID,4439382,0
 3/1/2025,USAID,2204435,0
@@ -4794,6 +4908,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,19000000,10720000
 3/1/2025,USAID,17700000,10227026
 3/1/2025,USAID,16200000,11799724
+3/1/2025,USAID,14500000,0
 3/1/2025,USAID,6000000,0
 3/1/2025,USAID,7000000,0
 3/1/2025,USAID,1749964,0
@@ -4888,6 +5003,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,13000000,2849579.3
 3/1/2025,USAID,8500000,0
 3/1/2025,USAID,5000000,3050000
+3/1/2025,USAID,1500000,800000
 3/1/2025,USAID,1000000,500000
 3/1/2025,USAID,5000000,3000000
 3/1/2025,USAID,2500000,1550000
@@ -4934,6 +5050,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,19778865,3658519
 3/1/2025,USAID,15000000,6308774.88
 3/1/2025,USAID,20000000,5766819
+3/1/2025,USAID,12500000,2663000
 3/1/2025,USAID,1529911,0
 3/1/2025,USAID,5275678,1862646
 3/1/2025,USAID,18500000,8952600
@@ -4980,6 +5097,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,5891131,128526
 3/1/2025,USAID,19899819,0
 3/1/2025,USAID,50000000,3531793
+3/1/2025,USAID,23000000,5487032
 3/1/2025,USAID,60000000,18447853.16
 3/1/2025,USAID,70000000,41458688.12
 3/1/2025,USAID,8000000,4500000
@@ -5026,6 +5144,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,43000000,15998842
 3/1/2025,USAID,12500000,6407402
 3/1/2025,USAID,10000000,3940294.06
+3/1/2025,USAID,30000000,19800000
 3/1/2025,USAID,10000000,5535000
 3/1/2025,USAID,3200000,0
 3/1/2025,USAID,8000000,6425000
@@ -5073,6 +5192,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,4128559,0
 3/1/2025,USAID,1028612,0
 3/1/2025,USAID,4000000,2350000
+3/1/2025,USAID,4000000,1800000
 3/1/2025,USAID,15000000,5291118.2
 3/1/2025,USAID,5000000,1500000
 3/1/2025,USAID,59998973,29723242.59
@@ -5119,6 +5239,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,28000000,0
 3/1/2025,USAID,17909054,3919890.76
 3/1/2025,USAID,3000000,563077.31
+3/1/2025,USAID,8800000,1876434.47
 3/1/2025,USAID,3000000,0
 3/1/2025,USAID,18200000,4742423.14
 3/1/2025,USAID,30000000,16900000
@@ -5166,6 +5287,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,8300000,1898480
 3/1/2025,USAID,10000000,7000000
 3/1/2025,USAID,18000000,0
+3/1/2025,USAID,18000000,2569704
 3/1/2025,USAID,5000000,3935619.82
 3/1/2025,USAID,8000000,900000
 3/1/2025,USAID,20000000,17458985.02
@@ -5213,6 +5335,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,25670000,4263826.25
 3/1/2025,USAID,18999087,5627478
 3/1/2025,USAID,7000000,1290332
+3/1/2025,USAID,2000000,0
 3/1/2025,USAID,4911191,1612164
 3/1/2025,USAID,53195423,11316470
 3/1/2025,USAID,2560000,0
@@ -5259,6 +5382,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,12700000,7868520.42
 3/1/2025,USAID,8000000,3943882
 3/1/2025,USAID,49000000,32437261
+3/1/2025,USAID,3000000,1000000
 3/1/2025,USAID,500000,0
 3/1/2025,USAID,500000,0
 3/1/2025,USAID,50000,0
@@ -5305,6 +5429,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,9000000,0
 3/1/2025,USAID,2883989,0
 3/1/2025,USAID,2000000,0
+3/1/2025,USAID,2700000,0
 3/1/2025,USAID,5000000,0
 3/1/2025,USAID,24000000,13500000
 3/1/2025,USAID,3000000,0
@@ -5351,6 +5476,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,6700000,3000000
 3/1/2025,USAID,40000000,36592575
 3/1/2025,USAID,25000000,0
+3/1/2025,USAID,5500000,0
 3/1/2025,USAID,2199858,100000
 3/1/2025,USAID,2000000,1200000
 3/1/2025,USAID,23008874,561231
@@ -5397,6 +5523,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,4443011,0
 3/1/2025,USAID,2100000,250000
 3/1/2025,USAID,12484541,1434537.47
+3/1/2025,USAID,4500000,1000000
 3/1/2025,USAID,7678943,4140252
 3/1/2025,USAID,21500103,11973349
 3/1/2025,USAID,60000000,34670087
@@ -5443,6 +5570,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,1400000,0
 3/1/2025,USAID,3500000,1650000
 3/1/2025,USAID,956013,0
+3/1/2025,USAID,17000000,1550519.8
 3/1/2025,USAID,1349772,0
 3/1/2025,USAID,1500000,668507.21
 3/1/2025,USAID,1450000,750000
@@ -5489,6 +5617,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,2501577,701577
 3/1/2025,USAID,5400000,1648000
 3/1/2025,USAID,1000000,0
+3/1/2025,USAID,10000000,6104000
 3/1/2025,USAID,4000000,500000
 3/1/2025,USAID,600000,0
 3/1/2025,USAID,5000000,3341710
@@ -5536,6 +5665,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,1870000,0
 3/1/2025,USAID,2000000,0
 3/1/2025,USAID,3450000,0
+3/1/2025,USAID,1199859,0
 3/1/2025,USAID,761243,0
 3/1/2025,USAID,3985538,0
 3/1/2025,USAID,6000000,0
@@ -5585,6 +5715,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,2700000,0
 3/1/2025,USAID,3500000,0
 3/1/2025,USAID,11024004,0
+3/1/2025,USAID,321508,0
 3/1/2025,USAID,700000,0
 3/1/2025,USAID,1249999,0
 3/1/2025,USAID,2000105,500105
@@ -5633,6 +5764,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,4200000,0
 3/1/2025,USAID,3630000,0
 3/1/2025,USAID,15000000,9166668
+3/1/2025,USAID,93422312,61814454
 3/1/2025,USAID,90677725,60893839
 3/1/2025,USAID,92915900,61332845
 3/1/2025,USAID,350044,0
@@ -5682,6 +5814,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,5800000,0
 3/1/2025,USAID,3000000,0
 3/1/2025,USAID,600000,0
+3/1/2025,USAID,2506685,0
 3/1/2025,USAID,2250000,0
 3/1/2025,USAID,1170000,0
 3/1/2025,USAID,500000,0
@@ -5730,6 +5863,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,1500000,0
 3/1/2025,USAID,8510234,5106140
 3/1/2025,USAID,6690000,3345000
+3/1/2025,USAID,8898135,4451281
 3/1/2025,USAID,4000000,1300000
 3/1/2025,USAID,7207406,4324444
 3/1/2025,USAID,1149950,574975
@@ -5778,6 +5912,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,1185754,0
 3/1/2025,USAID,1000000,500000
 3/1/2025,USAID,2000000,1000000
+3/1/2025,USAID,269302,0
 3/1/2025,USAID,1200000,0
 3/1/2025,USAID,1000000,0
 3/1/2025,USAID,250000,0
@@ -5826,6 +5961,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,797969,0
 3/1/2025,USAID,250000,0
 3/1/2025,USAID,500000,0
+3/1/2025,USAID,300000,148302
 3/1/2025,USAID,460000,0
 3/1/2025,USAID,3000000,0
 3/1/2025,USAID,500000,0
@@ -5875,6 +6011,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,2000000,0
 3/1/2025,USAID,7000000,0
 3/1/2025,USAID,1800000,1150000
+3/1/2025,USAID,1000000,0
 3/1/2025,USAID,5500000,0
 3/1/2025,USAID,265000,0
 3/1/2025,USAID,34230300,0
@@ -5923,6 +6060,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,494068,0
 3/1/2025,USAID,37000000,0
 3/1/2025,USAID,3300000,0
+3/1/2025,USAID,30000000,17012317
 3/1/2025,USAID,1800000,0
 3/1/2025,USAID,2000000,0
 3/1/2025,USAID,907683,0
@@ -5972,6 +6110,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,1023100,273100
 3/1/2025,USAID,1728106,0
 3/1/2025,USAID,1219400,0
+3/1/2025,USAID,752410,0
 3/1/2025,USAID,1350000,0
 3/1/2025,USAID,692772,0
 3/1/2025,USAID,1195612,0
@@ -6022,6 +6161,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,640394,0
 3/1/2025,USAID,881393,0
 3/1/2025,USAID,1400000,0
+3/1/2025,USAID,421681,0
 3/1/2025,USAID,1205000,0
 3/1/2025,USAID,700000,0
 3/1/2025,USAID,640000,0
@@ -6069,6 +6209,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,116000000,25777203.2
 3/1/2025,USAID,39980734,0
 3/1/2025,USAID,58449649,7152084
+3/1/2025,USAID,500000000,43750000
 3/1/2025,USAID,2163872,0
 3/1/2025,USAID,10798535,300000
 3/1/2025,USAID,10900000,0
@@ -6116,6 +6257,7 @@ update_date,agency,ceiling_value,value
 3/1/2025,USAID,15444703,4299331.58
 3/1/2025,USAID,319127770,81275739
 3/1/2025,USAID,26753799,3628620.11
+3/1/2025,USAID,29700000,18818075
 3/1/2025,USAID,8643728,800000
 3/1/2025,USAID,39499952,10144545.12
 3/1/2025,USAID,6092361,234560

@@ -24,9 +24,30 @@ def extract_json_from_html(html):
   soup = BeautifulSoup(html, "html.parser")
   json_pattern = re.compile(r"\{.*?\}")
   json_data = []
+  script_contents = ""
+
   for script in soup.find_all("script"):
     if script.string:
-      json_data.extend(json_pattern.findall(script.string))
+      # Remove unwanted parts like self.__next_f.push( and \"])
+      cleaned_script = re.sub(r'self\.__next_f\.push\(\[.*?,', '', script.string)
+      cleaned_script = re.sub(r'\"]\)\s*\"', '', cleaned_script)
+      script_contents += cleaned_script
+
+  # Replace escaped quotes with actual quotes
+  script_contents = script_contents.replace('\\"', '"')
+  script_contents = script_contents.replace('\\', '')
+
+  # Fix cases like ag"])"ency to create agency
+  script_contents = re.sub(r'\"\]\)\"', '', script_contents)
+
+  # Replace u0026 with &
+  script_contents = script_contents.replace('u0026', '&')
+
+  # Escape double quotes within the description field
+  # script_contents = re.sub(r'(?<=description":")([^"]*?)(?<!\\)"([^"]*?)(?=")', r'\1\\"', script_contents)
+
+  json_data.extend(json_pattern.findall(script_contents))
+
   return json_data
 
 def process_json_data(json_data):
@@ -41,6 +62,7 @@ def process_json_data(json_data):
       elif "agency" in parsed:
         grants.append(parsed)
     except json.JSONDecodeError:
+      # print(item)
       continue
   return contracts, grants, leases_termination
 
