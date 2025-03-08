@@ -24,26 +24,25 @@ def extract_json_from_html(html):
   soup = BeautifulSoup(html, "html.parser")
   json_pattern = re.compile(r"\{.*?\}")
   json_data = []
-  
   for script in soup.find_all("script"):
     if script.string:
       json_data.extend(json_pattern.findall(script.string))
-  
   return json_data
 
 def process_json_data(json_data):
-  savings, leases_termination = [], []
+  contracts, grants, leases_termination = [], [], []
   for item in json_data:
     try:
       parsed = json.loads(item.replace("\\\"", "\""))
-      if "date" in parsed and "agency" in parsed:
-        if "sq_ft" in parsed:
-          leases_termination.append(parsed)
-        else:
-          savings.append(parsed)
+      if "fpds_status" in parsed:
+        contracts.append(parsed)
+      elif "sq_ft" in parsed:
+        leases_termination.append(parsed)
+      elif "agency" in parsed:
+        grants.append(parsed)
     except json.JSONDecodeError:
       continue
-  return savings, leases_termination
+  return contracts, grants, leases_termination
 
 def save_json(data, path):
   with open(path, "w", encoding="utf-8") as f:
@@ -56,6 +55,11 @@ def save_csv(data, path):
       writer = csv.DictWriter(f, fieldnames=keys)
       writer.writeheader()
       writer.writerows(data)
+
+def save_html(html, path):
+  with open(path, "w", encoding="utf-8") as f:
+    f.write(html)
+    f.write("\n")
 
 def main(output_path):
   url = "https://doge.gov/savings"
@@ -70,14 +74,17 @@ def main(output_path):
 
   html = fetch_page(url, headers)
   json_data = extract_json_from_html(html)
-  savings, leases_termination = process_json_data(json_data)
+  contracts, grants, leases_termination = process_json_data(json_data)
 
-  save_json(savings, os.path.join(output_path, "doge_contracts_termination.json"))
+  save_html(html, os.path.join(output_path, "doge_savings.html"))
+  save_json(json_data, os.path.join(output_path, "html_parsed.json"))
+  save_json(contracts, os.path.join(output_path, "doge_contracts_termination.json"))
+  save_json(grants, os.path.join(output_path, "doge_grants_termination.json"))
   save_json(leases_termination, os.path.join(output_path, "doge_leases_termination.json"))
-  save_csv(savings, os.path.join(output_path, "doge_contracts_termination.csv"))
+  save_csv(contracts, os.path.join(output_path, "doge_contracts_termination.csv"))
+  save_csv(grants, os.path.join(output_path, "doge_grants_termination.csv"))
   save_csv(leases_termination, os.path.join(output_path, "doge_leases_termination.csv"))
-
-  print(f"✅ Saved {len(savings)} savings records and {len(leases_termination)} lease termination records to {output_path}")
+  print(f"✅ Saved {len(contracts)} contracts, {len(grants)} grants, and {len(leases_termination)} lease termination to {output_path}")
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Fetch, parse, and save savings data.")
