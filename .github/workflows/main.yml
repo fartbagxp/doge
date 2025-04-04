@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-  # schedule:
-  #   - cron: '16 12 * * *'
+  schedule:
+    - cron: '16 12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -30,7 +30,7 @@ jobs:
         run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push changes
-        if: github.ref == 'refs/heads/master'
+        if: github.ref == 'refs/heads/main'
         run: |
           git status
           git config --local user.email "noreply@github.com"
@@ -38,5 +38,5 @@ jobs:
           git add data/raw/
           if ! git diff-index --quiet HEAD; then
             git commit -m 'Nightly update of raw DOGE changes - ${{ steps.date.outputs.date }}'
-            git push -u origin master
+            git push -u origin main
           fi
