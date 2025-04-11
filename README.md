@@ -59,3 +59,9 @@ To create a new dependency lock file manually (optional as it should happen auto
 ```bash
 uv lock
 ```
+
+To upgrade dependencies, run:
+
+```bash
+uv lock --upgrade
+```
