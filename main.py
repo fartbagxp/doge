@@ -25,6 +25,18 @@ def main(output_path):
   leases = client.get_lease_savings()
   payments = client.get_payments()
 
+  if len(contracts) == 0:
+    print("No contract terminations found.")
+  if len(grants) == 0:
+    print("No grant terminations found.")
+  if len(leases) == 0:
+    print("No lease terminations found.")
+  if len(payments) == 0:
+    print("No payment terminations found.")
+  if len(contracts) == 0 and len(grants) == 0 and len(leases) == 0 and len(payments) == 0:
+    print("No terminations found.")
+    return
+
   save_json(contracts, os.path.join(output_path, "doge_contracts_termination.json"))
   save_json(grants, os.path.join(output_path, "doge_grants_termination.json"))
   save_json(leases, os.path.join(output_path, "doge_leases_termination.json"))

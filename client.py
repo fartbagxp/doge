@@ -7,21 +7,23 @@ class DogeClient:
     self.session = requests.Session()
 
   def _get_paginated(self, path, params=None):
+    MAX_PER_PAGE = 500
     all_items = []
     page = 1
     while True:
       q = params.copy() if params else {}
       q["page"] = page
-      q["per_page"] = 500
+      q["per_page"] = MAX_PER_PAGE
       q["sort_by"] = "date"
       url = f"{self.base_url}{path}?{urlencode(q)}"
       resp = self.session.get(url)
+      print(resp.status_code, url)
       data = resp.json()
       if not data.get("success"):
         break
       results = list(data.get("result", {}).values())[0]
       all_items.extend(results)
-      if len(results) < 500:
+      if len(results) < MAX_PER_PAGE:
         break
       page += 1
     return all_items
