@@ -10,6 +10,9 @@ It is intended to run nightly.
 
 The information came from [https://doge.gov/savings](https://doge.gov/savings).
 
+> [!NOTE]
+> The API Swagger page can be found in [https://api.doge.gov/docs](https://api.doge.gov/docs).
+
 ## How to run
 
 With [uv](https://github.com/astral-sh/uv), run this via `uv run python main.py data/raw/`
