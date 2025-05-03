@@ -23,7 +23,7 @@ def main(output_path):
   contracts = client.get_contract_savings()
   grants = client.get_grant_savings()
   leases = client.get_lease_savings()
-  payments = client.get_payments()
+  # payments = client.get_payments()
 
   if len(contracts) == 0:
     print("No contract terminations found.")
@@ -31,23 +31,21 @@ def main(output_path):
     print("No grant terminations found.")
   if len(leases) == 0:
     print("No lease terminations found.")
-  if len(payments) == 0:
-    print("No payment terminations found.")
-  if len(contracts) == 0 and len(grants) == 0 and len(leases) == 0 and len(payments) == 0:
+  # if len(payments) == 0:
+  #   print("No payment terminations found.")
+  if len(contracts) == 0 and len(grants) == 0 and len(leases) == 0: # and len(payments) == 0:
     print("No terminations found.")
     return
 
   save_json(contracts, os.path.join(output_path, "doge_contracts_termination.json"))
   save_json(grants, os.path.join(output_path, "doge_grants_termination.json"))
   save_json(leases, os.path.join(output_path, "doge_leases_termination.json"))
-  save_json(payments, os.path.join(output_path, "doge_payments_termination.json"))
 
   save_csv(contracts, os.path.join(output_path, "doge_contracts_termination.csv"))
   save_csv(grants, os.path.join(output_path, "doge_grants_termination.csv"))
   save_csv(leases, os.path.join(output_path, "doge_leases_termination.csv"))
-  save_csv(payments, os.path.join(output_path, "doge_payments_termination.csv"))
 
-  print(f"✅ Saved {len(contracts)} contracts, {len(grants)} grants, {len(leases)} leases, and {len(payments)} payments terminations to {output_path}")
+  print(f"✅ Saved {len(contracts)} contracts, {len(grants)} grants, and {len(leases)} leases to {output_path}")
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Fetch and save DOGE API savings data.")
