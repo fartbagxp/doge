@@ -13,8 +13,3 @@ repos:
     hooks:
       - id: ruff
         exclude: ^data/raw/
-  - repo: https://github.com/psf/black
-    rev: 25.1.0
-    hooks:
-      - id: black
-        exclude: ^data/raw/
