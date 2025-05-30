@@ -39,3 +39,6 @@ class DogeClient:
 
   def get_payments(self, **kwargs):
     return self._get_paginated("/payments", kwargs)
+
+  def get_payments_statistics(self, **kwargs):
+    return self._get_paginated("/payments/statistics", kwargs)
