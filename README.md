@@ -1,10 +1,10 @@
 # Overview
 
-![Last Run](https://github.com/fartbagxp/doge/actions/workflows/main.yml/badge.svg)
+![Last Run](https://github.com/fartbagxp/doge/actions/workflows/deploy.yml/badge.svg)
 
-This repository is intended to backup DOGE savings from [https://doge.gov/savings](https://doge.gov/savings)
+This repository is intended to backup DOGE savings from [https://doge.gov/savings](https://doge.gov/savings).
 
-It is intended to run nightly.
+It is intended to run nightly and produce a set of [raw data files](data/raw).
 
 ## Information Location
 
