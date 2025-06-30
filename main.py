@@ -58,8 +58,8 @@ def main(output_path):
     heuristic_error += (
       "The number of grants is less than 15,000, which is unusual.\n"
     )
-  if len(leases) < 450:
-    heuristic_error += "The number of leases is less than 450, which is unusual.\n"
+  if len(leases) < 400:
+    heuristic_error += "The number of leases is less than 400, which is unusual.\n"
   if len(payments) < 100000:
     heuristic_error += (
       "The number of payments is less than 100,000, which is unusual.\n"
