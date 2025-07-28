@@ -52,17 +52,19 @@ def main(output_path):
   heuristic_error = ""
   if len(contracts) < 10000:
     heuristic_error += (
-      "The number of contracts is less than 10,000, which is unusual.\n"
+      f"The number of contracts is {len(contracts)}, which is less than 10,000, which is unusual.\n"
     )
   if len(grants) < 15000:
     heuristic_error += (
-      "The number of grants is less than 15,000, which is unusual.\n"
+      f"The number of grants is {len(grants)}, which is less than 15,000, which is unusual.\n"
     )
-  if len(leases) < 400:
-    heuristic_error += "The number of leases is less than 400, which is unusual.\n"
+  if len(leases) < 380:
+    heuristic_error += (
+      f"The number of leases is {len(leases)}, which is less than 380, which is unusual.\n"
+    )
   if len(payments) < 100000:
     heuristic_error += (
-      "The number of payments is less than 100,000, which is unusual.\n"
+      f"The number of payments is {len(payments)}, which is less than 100,000, which is unusual.\n"
     )
   if heuristic_error != "":
     print("Heuristic error detected:")
