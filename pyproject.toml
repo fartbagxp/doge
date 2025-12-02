@@ -5,11 +5,11 @@ description = "Updates based on data provided by doge.gov API"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "beautifulsoup4>=4.14.2",
+    "beautifulsoup4>=4.14.3",
     "curl-cffi>=0.13.0",
 ]
 
 [dependency-groups]
 dev = [
-    "pre-commit>=4.2.0",
+    "pre-commit>=4.5.0",
 ]
