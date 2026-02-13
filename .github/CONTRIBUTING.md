@@ -5,15 +5,13 @@ If you want to contribute to the project, please follow the steps below:
 Install the development requirements:
 
 ```bash
-uv venv
-source .venv/bin/activate
-uv sync --all-extras --dev
+uv sync
 ```
 
 Install the pre-commit hooks:
 
 ```bash
-pre-commit install
+uv run pre-commit install
 ```
 
 To add a new dependency to a group like a lint group to segment dependencies, run this:
@@ -34,16 +32,10 @@ To exit out of the virtual environment (venv), run the following:
 deactivate
 ```
 
-To figure out which dependency may be outdated, find the dependencies via:
+To figure out which dependency may be outdated, find the dependencies via, consider deleting the uv.lock to update dependencies below.
 
 ```bash
-uv pip list --outdated
-```
-
-To create a new dependency lock file manually (optional as it should happen automatically on uv add):
-
-```bash
-uv lock
+uv tree --depth=1 --outdated
 ```
 
 To upgrade dependencies, run:
