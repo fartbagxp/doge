@@ -5,9 +5,7 @@ If you want to contribute to the project, please follow the steps below:
 Install the development requirements:
 
 ```bash
-uv venv
-source .venv/bin/activate
-uv sync --all-extras --dev
+uv sync
 ```
 
 Install the pre-commit hooks:
