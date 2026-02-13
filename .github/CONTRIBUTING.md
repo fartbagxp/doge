@@ -13,7 +13,7 @@ uv sync --all-extras --dev
 Install the pre-commit hooks:
 
 ```bash
-pre-commit install
+uv run pre-commit install
 ```
 
 To add a new dependency to a group like a lint group to segment dependencies, run this:
