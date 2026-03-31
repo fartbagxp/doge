@@ -13,6 +13,3 @@ dependencies = [
 dev = [
     "pre-commit>=4.5.1",
 ]
-
-[tool.uv]
-exclude-newer = "14 days"
