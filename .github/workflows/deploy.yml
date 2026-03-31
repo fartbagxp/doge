@@ -34,7 +34,7 @@ jobs:
           git status
           git config --local user.email "noreply@github.com"
           git config --local user.name "github-actions[bot]"
-          git checkout -- src/users/uv.lock
+          git checkout -- uv.lock
           git add data/raw/
           if ! git diff-index --quiet HEAD; then
             git commit -m "Nightly update of raw DOGE changes - $(date +'%Y-%m-%d')"
