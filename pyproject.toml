@@ -5,7 +5,7 @@ description = "Updates based on data provided by doge.gov API"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "beautifulsoup4==4.14.3",
+    "beautifulsoup4==4.15.0",
     "curl-cffi==0.15.0",
 ]
 
